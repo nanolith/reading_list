@@ -68,4 +68,4 @@ to get reading.
 * *One Flew Over the Cuckoo's Nest* by Ken Kesey
 * *Divine Comedy* by Dante Alighieri (read about 33%)
 
-strand-quiz: http://www.nytimes.com/interactive/2016/07/14/nyregion/strand-quiz.html
+[strand-quiz]: http://www.nytimes.com/interactive/2016/07/14/nyregion/strand-quiz.html
