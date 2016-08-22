@@ -37,7 +37,7 @@ to get reading.
 * *The Handmaid's Tale* by Margaret Atwood
 * *A People's History of the United States* by Howard Zinn
 * *Naked Lunch* by William S. Burroughs
-* *Slaughterhouse-Five* by Kurt Vonnegut
+* ~~*Slaughterhouse-Five* by Kurt Vonnegut~~
 * *The Tipping Point* by Malcolm Gladwell
 * *The Histories* by Herodotus (read about half-way)
 * *The Poisonwood Bible* by Barbara Kingsolver
