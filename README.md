@@ -23,7 +23,7 @@ to get reading.
 * ~~*Animal Farm* by George Orwell~~
 * *To the Lighthouse* by Virginia Woolf
 * *A House for Mr. Biswas* by V. S. Naipaul
-* *Invisible Man* by Ralph Ellison
+* ~~*Invisible Man* by Ralph Ellison~~
 * *A Confederacy of Dunces* by John Kennedy Toole
 * ~~*Dead Souls* by Nikolai Gogol~~
 * *Waiting for Godot* by Samuel Beckett
