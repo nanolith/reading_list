@@ -47,7 +47,7 @@ to get reading.
 * *What We Talk About When We Talk About Love* by Raymond Carver
 * *The Sound and the Fury* by William Faulkner
 * *The Wind-Up Bird Chronicle* by Haruki Murakami
-* ~~*Native Son* by Richard Wright*~~
+* ~~*Native Son* by Richard Wright~~
 * *Of Human Bondage* by W. Somerset Maugham
 * *The Cantos* by Ezra Pound
 * *Silas Marner* by George Eliot
