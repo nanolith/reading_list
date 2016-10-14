@@ -69,3 +69,68 @@ to get reading.
 * *Divine Comedy* by Dante Alighieri (read about 33%)
 
 [strand-quiz]: http://www.nytimes.com/interactive/2016/07/14/nyregion/strand-quiz.html
+
+Follow-Ups
+----------
+
+When I read an author I enjoy, I like to make a list of follow-up works.  Fully
+grokking an author takes more than one book.
+
+###Ken Kesey
+
+Randle Patrick McMurphy in *One Flew Over the Cuckoo's Nest* made for an
+interesting character study, especially since he was seen through the eye of
+Chief Bromden, who serves as the novel's Huckleberry Finn.
+
+* ~~*One Flew Over the Cuckoo's Nest* by Ken Kesey~~
+* *Sometimes a Great Notion* by Ken Kesey
+* *Sailor Song* by Ken Kesey
+
+###Kurt Vonnegut
+
+*Slaughterhouse-Five* was an interesting postmodernist telling of the second
+world war.  I'm curious to see how Vonnegut's other works stack up.
+
+Novels
+
+* *Player Piano* by Kurt Vonnegut
+* *The Sirens of Titan* by Kurt Vonnegut
+* *Mother Night* by Kurt Vonnegut
+* *Cat's Cradle* by Kurt Vonnegut
+* *God Bless You, Mr. Rosewater* by Kurt Vonnegut
+* ~~*Slaughterhouse-Five* by Kurt Vonnegut~~
+* *Breakfast of Champions* by Kurt Vonnegut
+* *Slapstick* by Kurt Vonnegut
+* *Jailbird* by Kurt Vonnegut
+* *Deadeye Dick* by Kurt Vonnegut
+* *Galápagos* by Kurt Vonnegut
+* *Bluebeard* by Kurt Vonnegut
+* *Hocus Pocus* by Kurt Vonnegut
+* *Timequake* by Kurt Vonnegut
+
+Fiction
+
+* *Canary in a Cathouse* by Kurt Vonnegut
+* *Welcome to the Monkey House* by Kurt Vonnegut
+* *Happy Birthday, Wanda June* by Kurt Vonnegut
+* *Between Time and Timbuktu* by Kurt Vonnegut
+* *Sun Moon Star* by Kurt Vonnegut
+* *Bagombo Snuff Box* by Kurt Vonnegut
+* *God Bless You, Dr. Kevorkian* by Kurt Vonnegut
+* *Armageddon in Retrospect* by Kurt Vonnegut
+* *Look at the Birdie* by Kurt Vonnegut
+* *While Mortals Sleep* by Kurt Vonnegut
+* *We Are What We Pretend to Be* by Kurt Vonnegut
+* *Sucker's Portfolio* by Kurt Vonnegut
+
+Nonfiction
+
+* *Wampeters, Foma and Granfalloons* by Kurt Vonnegut
+* *Palm Sunday* by Kurt Vonnegut
+* *Nothing Is Lost Save Honor: Two Essays* by Kurt Vonnegut
+* *Fates Worse Than Death* by Kurt Vonnegut
+* *A Man Without a Country* by Kurt Vonnegut
+* *Kurt Vonnegut: The Cornell Sun Years 1941–1943* by Kurt Vonnegut
+* *If This Isn't Nice, What Is?: Advice to the Young* by Kurt Vonnegut
+* *Vonnegut by the Dozen* by Kurt Vonnegut
+* *Kurt Vonnegut: Letters* by Kurt Vonnegut
