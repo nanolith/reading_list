@@ -65,7 +65,7 @@ to get reading.
 * *The Sea Around Us* by Rachel Carson
 * ~~*The Illiad* by Homer~~
 * *The Wings of the Dove* by Henry James
-* *One Flew Over the Cuckoo's Nest* by Ken Kesey
+* ~~*One Flew Over the Cuckoo's Nest* by Ken Kesey~~
 * *Divine Comedy* by Dante Alighieri (read about 33%)
 
 [strand-quiz]: http://www.nytimes.com/interactive/2016/07/14/nyregion/strand-quiz.html
