@@ -35,7 +35,7 @@ to get reading.
 * *Kindred* by Octavia E. Butler
 * *A Tree Grows in Brooklyn* by Betty Smith
 * *The Handmaid's Tale* by Margaret Atwood
-* *A People's History of the United States* by Howard Zinn
+* ~~*A People's History of the United States* by Howard Zinn~~
 * *Naked Lunch* by William S. Burroughs
 * ~~*Slaughterhouse-Five* by Kurt Vonnegut~~
 * ~~*The Tipping Point* by Malcolm Gladwell~~
@@ -60,7 +60,7 @@ to get reading.
 * *The Stones of Venice* by John Ruskin
 * ~~*Don Quixote* by Miguel de Cervantes~~
 * *Death of a Salesman* by Arthur Miller
-* *Being & Nothingness* by Jean-Paul Sartre (read half-way)
+* ~~*Being & Nothingness* by Jean-Paul Sartre~~
 * *Song of Solomon* by Toni Morrison
 * *The Sea Around Us* by Rachel Carson
 * ~~*The Illiad* by Homer~~
