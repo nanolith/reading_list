@@ -76,7 +76,8 @@ Follow-Ups
 When I read an author I enjoy, I like to make a list of follow-up works.  Fully
 grokking an author takes more than one book.
 
-###Ken Kesey
+Ken Kesey
+---------
 
 Randle Patrick McMurphy in *One Flew Over the Cuckoo's Nest* made for an
 interesting character study, especially since he was seen through the eye of
@@ -86,7 +87,8 @@ Chief Bromden, who serves as the novel's Huckleberry Finn.
 * *Sometimes a Great Notion* by Ken Kesey
 * *Sailor Song* by Ken Kesey
 
-###Kurt Vonnegut
+Kurt Vonnegut
+-------------
 
 *Slaughterhouse-Five* was an interesting postmodernist telling of the second
 world war.  I'm curious to see how Vonnegut's other works stack up.
