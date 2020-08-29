@@ -12,6 +12,17 @@ Sometimes, I'll add books that I've already read to cross them out when I'm
 extracting a reading list from a third party list.  I'll try to leave
 attribution when known.
 
+Isaac Asimov Foundation Series
+------------------------------
+
+* ~~*Foundation*~~
+* ~~*Foundation and Empire*~~
+* *Second Foundation*
+* *Foundation's Edge*
+* *Foundation and Earth*
+* *Prelude to Foundation*
+* *Forward to Foundation*
+
 Literature from Strand Quiz
 ---------------------------
 
