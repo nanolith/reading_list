@@ -23,6 +23,25 @@ Isaac Asimov Foundation Series
 * *Prelude to Foundation*
 * *Forward to Foundation*
 
+Miscellaneous Reads
+-------------------
+
+* ~~*Why Buddhism is True* by Robert White~~
+* ~~*Unfollow: A Memoir of Loving and Leaving the Westboro* by Megan Phelps-Roper~~
+* ~~*An American Family: A Memoir of Hope and Sacrifice* by Khizr Khan~~
+* ~~*An Autobiography: The Story of My Experiments with Truth* by Mohandas (Mahatma) K. Gandhi~~
+* ~~*The Rise and Fall of the Third Reich: A History of Nazi Germany* by William L. Shirer~~
+* ~~*The Glass Palace* by Amitav Ghosh~~
+* ~~*Red Platoon: A True Story of American Valor* by Clinton Romesha~~
+* ~~*A Connecticut Yankee in King Arthur's Court* by Mark Twain~~
+* ~~*The Coming Fury: The Centennial History of the Civil War, Volume 1* by Bruce Catton~~
+* ~~*Personal Memoirs of Ulysses S. Grant* by Ulysses S. Grant~~
+* ~~*Super Mario: How Nintendo Conquered America* by Jeff Ryan~~
+* ~~*Console Wars: Sega, Nintendo, and the Battle That Defined a Generation* by Blake J. Harris~~
+* ~~*A Square Meal: A Culinary History of the Great Depression* by Jane Ziegelman~~
+* ~~*A Distant Mirror: The Calamitous Fourteenth Century* by Barbara W. Tuchman*~~
+* ~~*The Girls of Atomic City: The Untold Story of the Women Who Helped Win World War II* by Denise Kiernan~~
+
 Literature from Strand Quiz
 ---------------------------
 
