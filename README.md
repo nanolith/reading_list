@@ -41,6 +41,7 @@ Miscellaneous Reads
 * ~~*A Square Meal: A Culinary History of the Great Depression* by Jane Ziegelman~~
 * ~~*A Distant Mirror: The Calamitous Fourteenth Century* by Barbara W. Tuchman*~~
 * ~~*The Girls of Atomic City: The Untold Story of the Women Who Helped Win World War II* by Denise Kiernan~~
+* ~~*Operation Mincemeat: How a Dead Man and a Bizarre Plan Fooled the Nazis and Assured an Allied Victory* by Ben Macintyre~~
 
 Literature from Strand Quiz
 ---------------------------
