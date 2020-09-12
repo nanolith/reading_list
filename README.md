@@ -168,3 +168,13 @@ Nonfiction
 * *If This Isn't Nice, What Is?: Advice to the Young* by Kurt Vonnegut
 * *Vonnegut by the Dozen* by Kurt Vonnegut
 * *Kurt Vonnegut: Letters* by Kurt Vonnegut
+
+Richard K. Morgan
+-----------------
+
+* ~~*Altered Carbon* by Richard K. Morgan~~
+* ~~*Broken Angels* by Richard K. Morgan~~
+* ~~*Woken Furies* by Richard K. Morgan~~
+* ~~*The Steel Remains* by Richard K. Morgan~~
+* ~~*The Cold Commands* by Richard K. Morgan~~
+* ~~*The Dark Defiles* by Richard K. Morgan~~
