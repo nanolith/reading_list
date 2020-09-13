@@ -43,6 +43,7 @@ Miscellaneous Reads
 * ~~*The Girls of Atomic City: The Untold Story of the Women Who Helped Win World War II* by Denise Kiernan~~
 * ~~*Operation Mincemeat: How a Dead Man and a Bizarre Plan Fooled the Nazis and Assured an Allied Victory* by Ben Macintyre~~
 * ~~*Agent Zigzag: A True Story of Nazi Espionage, Love, and Betrayal* by Ben Macintyre~~
+* ~~*Outland* by Dennis E. Taylor~~
 
 Literature from Strand Quiz
 ---------------------------
