@@ -18,7 +18,7 @@ Isaac Asimov Foundation Series
 * ~~*Foundation*~~
 * ~~*Foundation and Empire*~~
 * ~~*Second Foundation*~~
-* *Foundation's Edge*
+* ~~*Foundation's Edge*~~
 * *Foundation and Earth*
 * *Prelude to Foundation*
 * *Forward to Foundation*
