@@ -21,7 +21,7 @@ Isaac Asimov Foundation Series
 * ~~*Foundation's Edge*~~
 * ~~*Foundation and Earth*~~
 * *Prelude to Foundation*
-* *Forward to Foundation*
+* *Forward the Foundation*
 
 Miscellaneous Reads
 -------------------
