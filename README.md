@@ -188,3 +188,4 @@ Neal Stephenson
 * ~~*REAMDE* by Neal Stephenson~~
 * ~~*Anathem* by Neal Stephenson~~
 * ~~*Quicksilver* by Neal Stephenson~~
+* ~~*The Confusion* by Neal Stephenson~~
