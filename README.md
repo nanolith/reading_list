@@ -190,3 +190,4 @@ Neal Stephenson
 * ~~*Quicksilver* by Neal Stephenson~~
 * ~~*The Confusion* by Neal Stephenson~~
 * ~~*System of the World* by Neal Stephenson~~
+* ~~*Cryptonomicon* by Neal Stephenson~~
