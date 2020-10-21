@@ -20,7 +20,7 @@ Isaac Asimov Foundation Series
 * ~~*Second Foundation*~~
 * ~~*Foundation's Edge*~~
 * ~~*Foundation and Earth*~~
-* *Prelude to Foundation*
+* ~~*Prelude to Foundation*~~
 * *Forward the Foundation*
 
 Miscellaneous Reads
