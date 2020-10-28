@@ -193,3 +193,12 @@ Neal Stephenson
 * ~~*Cryptonomicon* by Neal Stephenson~~
 * ~~*Snow Crash* by Neal Stephenson~~
 * ~~*The Diamond Age* by Neal Stephenson~~
+
+Dennis E. Taylor
+----------------
+
+* ~~*We are Legion (We are Bob)* by Dennis E. Taylor~~
+* ~~*For We Are Many* by Dennis E. Taylor~~
+* ~~*All These Worlds* by Dennis E. Taylor~~
+* ~~*Heaven's River* by Dennis E. Taylor~~
+* *Outland* by Dennis E. Taylor
