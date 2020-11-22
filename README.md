@@ -44,6 +44,7 @@ Miscellaneous Reads
 * ~~*Operation Mincemeat: How a Dead Man and a Bizarre Plan Fooled the Nazis and Assured an Allied Victory* by Ben Macintyre~~
 * ~~*Agent Zigzag: A True Story of Nazi Espionage, Love, and Betrayal* by Ben Macintyre~~
 * ~~*Outland* by Dennis E. Taylor~~
+* *A Farewell to Arms* by Ernest Hemingway
 
 Literature from Strand Quiz
 ---------------------------
