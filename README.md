@@ -28,6 +28,15 @@ Ernest Hemingway
 
 * *A Farewell to Arms* by Ernest Hemingway
 * *Death in the Afternoon* by Ernest Hemingway
+* *A Moveable Feast* by Ernest Hemingway
+* *The Old Man and the Sea* by Ernest Hemingway
+* *The Sun Also Rises* by Ernest Hemingway
+* *For Whom the Bell Tolls* by Ernest Hemingway
+* *The Nick Adams Stories* by Ernest Hemingway
+* *Green Hills of Africa* by Ernest Hemingway
+* *To Have and Have Not* by Ernest Hemingway
+* *Winner Take Nothing* by Ernest Hemingway
+* *Men Without Women* by Ernest Hemingway
 
 Miscellaneous Reads
 -------------------
