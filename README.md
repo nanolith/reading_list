@@ -26,7 +26,7 @@ Isaac Asimov Foundation Series
 Ernest Hemingway
 -----------------
 
-* *A Farewell to Arms* by Ernest Hemingway
+* ~*A Farewell to Arms* by Ernest Hemingway~
 * *Death in the Afternoon* by Ernest Hemingway
 * *A Moveable Feast* by Ernest Hemingway
 * *The Old Man and the Sea* by Ernest Hemingway
