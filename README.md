@@ -217,3 +217,11 @@ Dennis E. Taylor
 * ~~*All These Worlds* by Dennis E. Taylor~~
 * ~~*Heaven's River* by Dennis E. Taylor~~
 * ~~*Outland* by Dennis E. Taylor~~
+
+John Bierce
+-----------
+
+* ~~*Into the Labyrinth* by John Bierce~~
+* ~~*Jewel of the Endless Erg* by John Bierce~~
+* ~~*A Traitor in Skyhold* by John Bierce~~
+* *The Lost City of Ithos* by John Bierce
