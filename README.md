@@ -26,7 +26,7 @@ Isaac Asimov Foundation Series
 Ernest Hemingway
 -----------------
 
-* ~*A Farewell to Arms* by Ernest Hemingway~
+* ~~*A Farewell to Arms* by Ernest Hemingway~~
 * *Death in the Afternoon* by Ernest Hemingway
 * *A Moveable Feast* by Ernest Hemingway
 * *The Old Man and the Sea* by Ernest Hemingway
@@ -217,6 +217,7 @@ Dennis E. Taylor
 * ~~*All These Worlds* by Dennis E. Taylor~~
 * ~~*Heaven's River* by Dennis E. Taylor~~
 * ~~*Outland* by Dennis E. Taylor~~
+* ~~*A Change of Plans* by Dennis E. Taylor~~
 
 John Bierce
 -----------
