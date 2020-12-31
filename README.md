@@ -208,6 +208,7 @@ Neal Stephenson
 * ~~*Cryptonomicon* by Neal Stephenson~~
 * ~~*Snow Crash* by Neal Stephenson~~
 * ~~*The Diamond Age* by Neal Stephenson~~
+* ~~*Zodiac* by Neal Stephenson~~
 
 Dennis E. Taylor
 ----------------
