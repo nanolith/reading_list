@@ -227,3 +227,11 @@ John Bierce
 * ~~*Jewel of the Endless Erg* by John Bierce~~
 * ~~*A Traitor in Skyhold* by John Bierce~~
 * ~~*The Lost City of Ithos* by John Bierce~~
+
+Ernest Cline
+------------
+
+* ~~*Ready Player One* by Ernest Cline~~
+* *Ready Player Two* by Ernest Cline
+* ~~*Armada* by Ernest Cline~~
+
