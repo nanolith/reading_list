@@ -232,6 +232,6 @@ Ernest Cline
 ------------
 
 * ~~*Ready Player One* by Ernest Cline~~
-* *Ready Player Two* by Ernest Cline
+* ~~*Ready Player Two* by Ernest Cline~~
 * ~~*Armada* by Ernest Cline~~
 
