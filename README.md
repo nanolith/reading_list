@@ -15,13 +15,13 @@ attribution when known.
 Isaac Asimov Foundation Series
 ------------------------------
 
-* ~~*Foundation*~~
-* ~~*Foundation and Empire*~~
-* ~~*Second Foundation*~~
-* ~~*Foundation's Edge*~~
-* ~~*Foundation and Earth*~~
-* ~~*Prelude to Foundation*~~
-* ~~*Forward the Foundation*~~
+* ~~*Foundation* by Isaac Asimov~~
+* ~~*Foundation and Empire* by Isaac Asimov~~
+* ~~*Second Foundation* by Isaac Asimov~~
+* ~~*Foundation's Edge* by Isaac Asimov~~
+* ~~*Foundation and Earth* by Isaac Asimov~~
+* ~~*Prelude to Foundation* by Isaac Asimov~~
+* ~~*Forward the Foundation* by Isaac Asimov~~
 
 Ernest Hemingway
 -----------------
