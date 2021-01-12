@@ -1,7 +1,7 @@
 Reading List
 ============
 
-This is my current reading list, in Markdown format.  My old reading list
+This is my current reading list.  My old reading list
 eventually reached over 1000 books, so I decided to start over.  I order books
 in somewhat random categories, and there is no guarantee that this list is up to
 date with what I have read or not.  In fact, there are many hundreds of books
