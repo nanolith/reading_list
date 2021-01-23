@@ -82,7 +82,7 @@ to get reading.
 * *The Second Sex* by Simone de Beauvoir
 * *Metamorphoses* by Ovid
 * *Kindred* by Octavia E. Butler
-* *A Tree Grows in Brooklyn* by Betty Smith
+* ~~*A Tree Grows in Brooklyn* by Betty Smith~~
 * *The Handmaid's Tale* by Margaret Atwood
 * ~~*A People's History of the United States* by Howard Zinn~~
 * *Naked Lunch* by William S. Burroughs
