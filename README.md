@@ -61,6 +61,7 @@ Miscellaneous Reads
 * ~~*Outland* by Dennis E. Taylor~~
 * ~~*Floodpath: The Deadliest Man-Made Disaster of 20th-Century America and the Making of Modern Los Angeles* by Jon Wilkman~~
 * *Reflections on the French Revolution* by Edmund Burke
+* *The Book of Gin* by Richard Barnett
 
 Literature from Strand Quiz
 ---------------------------
