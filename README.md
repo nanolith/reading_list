@@ -221,6 +221,7 @@ Dennis E. Taylor
 * ~~*All These Worlds* by Dennis E. Taylor~~
 * ~~*Heaven's River* by Dennis E. Taylor~~
 * ~~*Outland* by Dennis E. Taylor~~
+* *Earthside* by Dennis E. Taylor
 * ~~*A Change of Plans* by Dennis E. Taylor~~
 
 John Bierce
