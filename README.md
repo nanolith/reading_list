@@ -239,3 +239,25 @@ Ernest Cline
 * ~~*Ready Player Two* by Ernest Cline~~
 * ~~*Armada* by Ernest Cline~~
 
+Light Reading
+=============
+
+The following book series are what I consider "light reading".  I use them as a palate cleanser between more serious books.  They are entertaining.
+
+B.V. Larson (Undying Mercenaries Series)
+----------------------------------------
+
+* ~~*Steel World* by B.V. Larson~~
+* ~~*Dust World* by B.V. Larson~~
+* ~~*Tech World* by B.V. Larson~~
+* ~~*Machine World* by B.V. Larson~~
+* ~~*Death World* by B.V. Larson~~
+* ~~*Home World* by B.V. Larson~~
+* ~~*Rogue World* by B.V. Larson~~
+* ~~*Blood World* by B.V. Larson~~
+* ~~*Dark World* by B.V. Larson~~
+* ~~*Storm World* by B.V. Larson~~
+* ~~*Armor World* by B.V. Larson~~
+* ~~*Clone World* by B.V. Larson~~
+* ~~*Glass World* by B.V. Larson~~
+* *Edge World* by B.V. Larson
