@@ -261,3 +261,19 @@ B.V. Larson (Undying Mercenaries Series)
 * ~~*Clone World* by B.V. Larson~~
 * ~~*Glass World* by B.V. Larson~~
 * *Edge World* by B.V. Larson
+
+Terry Mancour (Spellmonger Series)
+----------------------------------
+
+* ~~*Spellmonger* by Terry Mancour~~
+* ~~*Warmage* by Terry Mancour~~
+* ~~*Magelord* by Terry Mancour~~
+* ~~*Knights Magi* by Terry Mancour~~
+* ~~*High Mage* by Terry Mancour~~
+* ~~*Journeymage* by Terry Mancour~~
+* ~~*Enchanter* by Terry Mancour~~
+* ~~*Court Wizard* by Terry Mancour~~
+* ~~*Shadowmage* by Terry Mancour~~
+* ~~*Necromancer* by Terry Mancour~~
+* ~~*Thaumaturge* by Terry Mancour~~
+* *Arcanist* by Terry Mancour
