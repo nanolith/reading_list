@@ -260,7 +260,7 @@ B.V. Larson (Undying Mercenaries Series)
 * ~~*Armor World* by B.V. Larson~~
 * ~~*Clone World* by B.V. Larson~~
 * ~~*Glass World* by B.V. Larson~~
-* *Edge World* by B.V. Larson
+* ~~*Edge World* by B.V. Larson~~
 
 Terry Mancour (Spellmonger Series)
 ----------------------------------
