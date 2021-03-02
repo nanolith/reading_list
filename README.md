@@ -188,6 +188,11 @@ Nonfiction
 * *Vonnegut by the Dozen* by Kurt Vonnegut
 * *Kurt Vonnegut: Letters* by Kurt Vonnegut
 
+Light Reading
+=============
+
+The following book series are what I consider "light reading".  I use them as a palate cleanser between more serious books.  They are entertaining.
+
 Richard K. Morgan
 -----------------
 
@@ -238,11 +243,6 @@ Ernest Cline
 * ~~*Ready Player One* by Ernest Cline~~
 * ~~*Ready Player Two* by Ernest Cline~~
 * ~~*Armada* by Ernest Cline~~
-
-Light Reading
-=============
-
-The following book series are what I consider "light reading".  I use them as a palate cleanser between more serious books.  They are entertaining.
 
 B.V. Larson (Undying Mercenaries Series)
 ----------------------------------------
