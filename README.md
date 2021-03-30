@@ -278,3 +278,4 @@ Terry Mancour (Spellmonger Series)
 * ~~*Thaumaturge* by Terry Mancour~~
 * ~~*Road to Sevendor* by Terry Mancour~~
 * ~~*Arcanist* by Terry Mancour~~
+* *The Wizards of Sevendor* by Terry Mancour
