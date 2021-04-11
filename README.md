@@ -205,6 +205,7 @@ Richard K. Morgan
 * ~~*The Steel Remains* by Richard K. Morgan~~
 * ~~*The Cold Commands* by Richard K. Morgan~~
 * ~~*The Dark Defiles* by Richard K. Morgan~~
+* *Thin Air* by Richard K. Morgan
 
 Neal Stephenson
 ---------------
