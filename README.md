@@ -63,7 +63,7 @@ Miscellaneous Reads
 * *Reflections on the French Revolution* by Edmund Burke
 * ~~*The Book of Gin* by Richard Barnett~~
 * *Road to Jonestown: Jim Jones and Peoples Temple* by Jeff Guinn
-* *The Answer Is...* by Alex Trebek
+* ~~*The Answer Is...* by Alex Trebek~~
 * *Smoke Gets in Your Eyes* by Caitlin Doughty
 
 Literature from Strand Quiz
