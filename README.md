@@ -65,6 +65,7 @@ Miscellaneous Reads
 * *Road to Jonestown: Jim Jones and Peoples Temple* by Jeff Guinn
 * ~~*The Answer Is...* by Alex Trebek~~
 * *Smoke Gets in Your Eyes* by Caitlin Doughty
+* *A Captain's Duty: Somali Pirates, Navy SEALs, and Dangerous Days at Sea* by Richard Phillips and Stephan Talty
 
 Literature from Strand Quiz
 ---------------------------
