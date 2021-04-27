@@ -293,3 +293,11 @@ Andy Weir
 * ~~*The Martian* by Andy Weir~~
 * ~~*Artemis* by Andy Weir~~
 * *Project Hail Mary* by Andy Weir
+
+Thomas Harris
+-------------
+
+* ~~*Red Dragon* by Thomas Harris~~
+* *The Silence of the Lambs* by Thomas Harris
+* *Hannibal* by Thomas Harris
+* *Hannibal Rising* by Thomas Harris
