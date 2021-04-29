@@ -63,6 +63,7 @@ Miscellaneous Reads
 * *Reflections on the French Revolution* by Edmund Burke
 * ~~*The Book of Gin* by Richard Barnett~~
 * *Road to Jonestown: Jim Jones and Peoples Temple* by Jeff Guinn
+* *Manson: The Life and Times of Charles Manson* by Jeff Guinn
 * ~~*The Answer Is...* by Alex Trebek~~
 * ~~*Smoke Gets in Your Eyes* by Caitlin Doughty~~
 * *A Captain's Duty: Somali Pirates, Navy SEALs, and Dangerous Days at Sea* by Richard Phillips and Stephan Talty
