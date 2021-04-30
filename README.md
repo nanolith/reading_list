@@ -198,6 +198,13 @@ Light Reading
 
 The following book series are what I consider "light reading".  I use them as a palate cleanser between more serious books.  They are entertaining.
 
+Vernor Vinge
+------------
+
+* ~~*A Fire Upon the Deep* by Vernor Vinge~~
+* ~~*A Deepness in the Sky* by Vernor Vinge~~
+* ~~*The Children of the Sky* by Vernor Vinge~~
+
 Richard K. Morgan
 -----------------
 
