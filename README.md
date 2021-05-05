@@ -62,7 +62,7 @@ Miscellaneous Reads
 * ~~*Floodpath: The Deadliest Man-Made Disaster of 20th-Century America and the Making of Modern Los Angeles* by Jon Wilkman~~
 * *Reflections on the French Revolution* by Edmund Burke
 * ~~*The Book of Gin* by Richard Barnett~~
-* *Road to Jonestown: Jim Jones and Peoples Temple* by Jeff Guinn
+* ~~*Road to Jonestown: Jim Jones and Peoples Temple* by Jeff Guinn~~
 * *Manson: The Life and Times of Charles Manson* by Jeff Guinn
 * ~~*The Answer Is...* by Alex Trebek~~
 * ~~*Smoke Gets in Your Eyes* by Caitlin Doughty~~
