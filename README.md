@@ -241,6 +241,7 @@ Dennis E. Taylor
 * ~~*Outland* by Dennis E. Taylor~~
 * *Earthside* by Dennis E. Taylor
 * ~~*A Change of Plans* by Dennis E. Taylor~~
+* *Roadkill* by Dennis E. Taylor
 
 John Bierce
 -----------
