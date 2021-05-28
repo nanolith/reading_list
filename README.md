@@ -70,6 +70,7 @@ Miscellaneous Reads
 * *An Astronaut's Guide to Life on Earth: What Going to Space Taught Me About Ingenuity, Determination, and Being Prepared for Anything* by Chris Hadfield
 * *Siddhartha* by Hermann Hesse
 * *The Ground Breaking: An American City and Its Search for Justice* by Scott Ellsworth
+* *The Ottoman Empire* by Kenneth W. Harl and The Great Courses
 
 Literature from Strand Quiz
 ---------------------------
