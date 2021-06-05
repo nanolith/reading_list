@@ -71,6 +71,7 @@ Miscellaneous Reads
 * *Siddhartha* by Hermann Hesse
 * *The Ground Breaking: An American City and Its Search for Justice* by Scott Ellsworth
 * *The Ottoman Empire* by Kenneth W. Harl and The Great Courses **Currently Reading**
+* *The World as Will and Representation, Vol 1* by Arthur Schopenhauer.
 
 Literature from Strand Quiz
 ---------------------------
