@@ -74,6 +74,7 @@ Miscellaneous Reads
 * *The World as Will and Representation, Vol 1* by Arthur Schopenhauer.
 * *From Yao to Mao: 5000 Years of Chinese History* by Kenneth J. Hammond and The Great Courses
 * *The Road to Unfreedom* by Timothy Snyder
+* *Congo* by Michael Crichton
 
 Literature from Strand Quiz
 ---------------------------
