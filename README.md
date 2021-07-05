@@ -75,7 +75,7 @@ Miscellaneous Reads
 * *From Yao to Mao: 5000 Years of Chinese History* by Kenneth J. Hammond and The Great Courses
 * *The Road to Unfreedom* by Timothy Snyder
 * ~~*Congo* by Michael Crichton~~
-* *Real Zen for Real Life* by Bret W. Davis and The Great Courses
+* *Real Zen for Real Life* by Bret W. Davis and The Great Courses (reading now)
 
 Literature from Strand Quiz
 ---------------------------
