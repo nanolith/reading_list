@@ -76,6 +76,7 @@ Miscellaneous Reads
 * *The Road to Unfreedom* by Timothy Snyder
 * ~~*Congo* by Michael Crichton~~
 * ~~*Real Zen for Real Life* by Bret W. Davis and The Great Courses (reading now)~~
+* *I Am a Strange Loop* by Douglas R. Hofstadter
 
 Literature from Strand Quiz
 ---------------------------
