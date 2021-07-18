@@ -77,6 +77,7 @@ Miscellaneous Reads
 * ~~*Congo* by Michael Crichton~~
 * ~~*Real Zen for Real Life* by Bret W. Davis and The Great Courses~~
 * *I Am a Strange Loop* by Douglas R. Hofstadter
+* *David Copperfield* by Charles Dickens
 
 Literature from Strand Quiz
 ---------------------------
