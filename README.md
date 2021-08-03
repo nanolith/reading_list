@@ -78,6 +78,7 @@ Miscellaneous Reads
 * ~~*Real Zen for Real Life* by Bret W. Davis and The Great Courses~~
 * *I Am a Strange Loop* by Douglas R. Hofstadter
 * *David Copperfield* by Charles Dickens
+* *Heavier than Heaven: A Biography of Kurt Cobain* by Charles R. Cross
 
 Literature from Strand Quiz
 ---------------------------
