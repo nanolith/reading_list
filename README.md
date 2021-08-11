@@ -78,7 +78,7 @@ Miscellaneous Reads
 * ~~*Real Zen for Real Life* by Bret W. Davis and The Great Courses~~
 * *I Am a Strange Loop* by Douglas R. Hofstadter
 * *David Copperfield* by Charles Dickens
-* *Heavier than Heaven: A Biography of Kurt Cobain* by Charles R. Cross (currently reading)
+* ~~*Heavier than Heaven: A Biography of Kurt Cobain* by Charles R. Cross~~
 
 Literature from Strand Quiz
 ---------------------------
@@ -289,7 +289,7 @@ B.V. Larson (Undying Mercenaries Series)
 * ~~*Clone World* by B.V. Larson~~
 * ~~*Glass World* by B.V. Larson~~
 * ~~*Edge World* by B.V. Larson~~
-* *Green World* by B.V. Larson
+* *Green World* by B.V. Larson (currently reading)
 
 Terry Mancour (Spellmonger Series)
 ----------------------------------
