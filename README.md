@@ -79,6 +79,7 @@ Miscellaneous Reads
 * *I Am a Strange Loop* by Douglas R. Hofstadter
 * *David Copperfield* by Charles Dickens
 * ~~*Heavier than Heaven: A Biography of Kurt Cobain* by Charles R. Cross~~
+* *What Happened* by Hillary Rodham Clinton
 
 Literature from Strand Quiz
 ---------------------------
