@@ -264,7 +264,7 @@ John Bierce
 * ~~*Jewel of the Endless Erg* by John Bierce~~
 * ~~*A Traitor in Skyhold* by John Bierce~~
 * ~~*The Lost City of Ithos* by John Bierce~~
-* *The Siege of Skyhold* by John Bierce
+* *The Siege of Skyhold* by John Bierce (currently reading)
 
 Ernest Cline
 ------------
