@@ -80,6 +80,7 @@ Miscellaneous Reads
 * *David Copperfield* by Charles Dickens
 * ~~*Heavier than Heaven: A Biography of Kurt Cobain* by Charles R. Cross~~
 * *What Happened* by Hillary Rodham Clinton
+* *Seven Years in Tibet* by Heinrich Harrer and Richard Graves
 
 Literature from Strand Quiz
 ---------------------------
