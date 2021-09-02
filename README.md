@@ -81,6 +81,7 @@ Miscellaneous Reads
 * ~~*Heavier than Heaven: A Biography of Kurt Cobain* by Charles R. Cross~~
 * *What Happened* by Hillary Rodham Clinton
 * *Seven Years in Tibet* by Heinrich Harrer and Richard Graves
+* *A Higher Loyalty: Truth, Lies, and Leadership* by James Comey
 
 Literature from Strand Quiz
 ---------------------------
