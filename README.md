@@ -79,7 +79,7 @@ Miscellaneous Reads
 * *I Am a Strange Loop* by Douglas R. Hofstadter
 * *David Copperfield* by Charles Dickens
 * ~~*Heavier than Heaven: A Biography of Kurt Cobain* by Charles R. Cross~~
-* *What Happened* by Hillary Rodham Clinton
+* *What Happened* by Hillary Rodham Clinton (currently reading)
 * *Seven Years in Tibet* by Heinrich Harrer and Richard Graves
 * *A Higher Loyalty: Truth, Lies, and Leadership* by James Comey
 
