@@ -82,6 +82,7 @@ Miscellaneous Reads
 * ~~*What Happened* by Hillary Rodham Clinton~~
 * *Seven Years in Tibet* by Heinrich Harrer and Richard Graves
 * *A Higher Loyalty: Truth, Lies, and Leadership* by James Comey
+* *The Immortal Life of Henrietta Lacks* by Rebecca Skloot (currently reading)
 
 Literature from Strand Quiz
 ---------------------------
