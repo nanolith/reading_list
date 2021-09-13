@@ -83,6 +83,7 @@ Miscellaneous Reads
 * *Seven Years in Tibet* by Heinrich Harrer and Richard Graves
 * *A Higher Loyalty: Truth, Lies, and Leadership* by James Comey
 * ~~*The Immortal Life of Henrietta Lacks* by Rebecca Skloot~~
+* *Endgame: Bobby Fischer’s Remarkable Rise and Fall—from America’s Brightest Prodigy to the Edge of Madness* by Frank Brady
 
 Literature from Strand Quiz
 ---------------------------
