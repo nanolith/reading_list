@@ -295,6 +295,7 @@ B.V. Larson (Undying Mercenaries Series)
 * ~~*Glass World* by B.V. Larson~~
 * ~~*Edge World* by B.V. Larson~~
 * ~~*Green World* by B.V. Larson~~
+* *Ice World* by B.V. Larson
 
 Terry Mancour (Spellmonger Series)
 ----------------------------------
