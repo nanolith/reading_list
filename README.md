@@ -84,6 +84,7 @@ Miscellaneous Reads
 * ~~*A Higher Loyalty: Truth, Lies, and Leadership* by James Comey~~
 * ~~*The Immortal Life of Henrietta Lacks* by Rebecca Skloot~~
 * ~~*Endgame: Bobby Fischer’s Remarkable Rise and Fall -- from America’s Brightest Prodigy to the Edge of Madness* by Frank Brady~~
+* *Bind, Torture, Kill: The Inside Story of BTK, the Serial Killer Next Door* by Roy Wenzl, Tim Potter, L. Kelly, and Hurst Laviana
 
 Literature from Strand Quiz
 ---------------------------
