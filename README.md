@@ -265,7 +265,7 @@ Dennis E. Taylor
 John Bierce
 -----------
 
-* *The Wrack* by John Bierce (currently reading)
+* ~~*The Wrack* by John Bierce~~
 * ~~*Into the Labyrinth* by John Bierce~~
 * ~~*Jewel of the Endless Erg* by John Bierce~~
 * ~~*A Traitor in Skyhold* by John Bierce~~
