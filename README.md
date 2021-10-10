@@ -335,3 +335,13 @@ Thomas Harris
 * *The Silence of the Lambs* by Thomas Harris
 * *Hannibal* by Thomas Harris
 * *Hannibal Rising* by Thomas Harris
+
+Frank Herbert
+-------------
+
+* *Dune* by Frank Herbert
+* *Dune Messiah* by Frank Herbert
+* *Children of Dune* by Frank Herbert
+* *God Emperor of Dune* by Frank Herbert
+* *Heretics of Dune* by Frank Herbert
+* *Chapterhouse: Dune* by Frank Herbert
