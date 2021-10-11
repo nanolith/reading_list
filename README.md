@@ -88,6 +88,7 @@ Miscellaneous Reads
 * ~~*A History of India* by Michael H. Fisher and The Great Courses~~
 * *Midnight's Children* by Salman Rushdie
 * *Run, Hide, Repeat: A Memoir of a Fugitive Childhood* by Pauline Dakin
+* *Indestructible: The Unforgettable Memoir of a Marine Hero at the Battle of Iwo Jima* by Jack H. Lucas and D.K. Drum
 
 Literature from Strand Quiz
 ---------------------------
