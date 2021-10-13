@@ -89,6 +89,7 @@ Miscellaneous Reads
 * *Midnight's Children* by Salman Rushdie
 * *Run, Hide, Repeat: A Memoir of a Fugitive Childhood* by Pauline Dakin
 * *Indestructible: The Unforgettable Memoir of a Marine Hero at the Battle of Iwo Jima* by Jack H. Lucas and D.K. Drum
+* *Love, Lucy* by Lucille Ball
 
 Literature from Strand Quiz
 ---------------------------
