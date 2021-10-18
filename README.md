@@ -86,7 +86,7 @@ Miscellaneous Reads
 * ~~*Endgame: Bobby Fischer’s Remarkable Rise and Fall -- from America’s Brightest Prodigy to the Edge of Madness* by Frank Brady~~
 * ~~*Bind, Torture, Kill: The Inside Story of BTK, the Serial Killer Next Door* by Roy Wenzl, Tim Potter, L. Kelly, and Hurst Laviana~~
 * ~~*A History of India* by Michael H. Fisher and The Great Courses~~
-* *Midnight's Children* by Salman Rushdie (currently reading)
+* *Midnight's Children* by Salman Rushdie
 * *Run, Hide, Repeat: A Memoir of a Fugitive Childhood* by Pauline Dakin
 * *Indestructible: The Unforgettable Memoir of a Marine Hero at the Battle of Iwo Jima* by Jack H. Lucas and D.K. Drum
 * *Love, Lucy* by Lucille Ball
