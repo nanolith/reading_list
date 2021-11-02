@@ -27,7 +27,7 @@ Ernest Hemingway
 -----------------
 
 * ~~*A Farewell to Arms* by Ernest Hemingway~~
-* *Death in the Afternoon* by Ernest Hemingway (read roughly half)
+* *Death in the Afternoon* by Ernest Hemingway
 * *A Moveable Feast* by Ernest Hemingway
 * *The Old Man and the Sea* by Ernest Hemingway
 * *The Sun Also Rises* by Ernest Hemingway
