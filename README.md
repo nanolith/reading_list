@@ -227,6 +227,7 @@ Vernor Vinge
 * ~~*A Fire Upon the Deep* by Vernor Vinge~~
 * ~~*A Deepness in the Sky* by Vernor Vinge~~
 * ~~*The Children of the Sky* by Vernor Vinge~~
+* ~~*Rainbow's End* by Vernor Vinge~~
 
 Richard K. Morgan
 -----------------
