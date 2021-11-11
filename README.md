@@ -90,6 +90,7 @@ Miscellaneous Reads
 * *Run, Hide, Repeat: A Memoir of a Fugitive Childhood* by Pauline Dakin
 * *Indestructible: The Unforgettable Memoir of a Marine Hero at the Battle of Iwo Jima* by Jack H. Lucas and D.K. Drum
 * *Love, Lucy* by Lucille Ball
+* *The American West: History, Myth, and Legacy* by Patrick N. Allitt and The Great Courses
 
 Literature from Strand Quiz
 ---------------------------
