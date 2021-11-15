@@ -91,6 +91,7 @@ Miscellaneous Reads
 * *Indestructible: The Unforgettable Memoir of a Marine Hero at the Battle of Iwo Jima* by Jack H. Lucas and D.K. Drum
 * *Love, Lucy* by Lucille Ball
 * ~~*The American West: History, Myth, and Legacy* by Patrick N. Allitt and The Great Courses~~
+* *Genghis Khan and the Making of the Modern World* by Jack Weatherford
 
 Literature from Strand Quiz
 ---------------------------
