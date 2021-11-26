@@ -351,3 +351,8 @@ Frank Herbert
 * *God Emperor of Dune* by Frank Herbert
 * *Heretics of Dune* by Frank Herbert
 * *Chapterhouse: Dune* by Frank Herbert
+
+Cixin Liu
+---------
+
+* *The Three Body Problem* by Cixin Liu
