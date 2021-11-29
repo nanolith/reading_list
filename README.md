@@ -92,7 +92,7 @@ Miscellaneous Reads
 * *Love, Lucy* by Lucille Ball
 * ~~*The American West: History, Myth, and Legacy* by Patrick N. Allitt and The Great Courses~~
 * ~~*Genghis Khan and the Making of the Modern World* by Jack Weatherford~~
-* *Whoever Fights Monsters* by Robert K. Ressler and Tom Shachtman
+* ~~*Whoever Fights Monsters* by Robert K. Ressler and Tom Shachtman~~
 
 Literature from Strand Quiz
 ---------------------------
