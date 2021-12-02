@@ -346,7 +346,7 @@ Thomas Harris
 Frank Herbert
 -------------
 
-* *Dune* by Frank Herbert
+* *Dune* by Frank Herbert (read once but reading again)
 * *Dune Messiah* by Frank Herbert
 * *Children of Dune* by Frank Herbert
 * *God Emperor of Dune* by Frank Herbert
