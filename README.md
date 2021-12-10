@@ -67,7 +67,7 @@ Miscellaneous Reads
 * ~~*The Answer Is...* by Alex Trebek~~
 * ~~*Smoke Gets in Your Eyes* by Caitlin Doughty~~
 * ~~*A Captain's Duty: Somali Pirates, Navy SEALs, and Dangerous Days at Sea* by Richard Phillips and Stephan Talty~~
-* *An Astronaut's Guide to Life on Earth: What Going to Space Taught Me About Ingenuity, Determination, and Being Prepared for Anything* by Chris Hadfield
+* ~~*An Astronaut's Guide to Life on Earth: What Going to Space Taught Me About Ingenuity, Determination, and Being Prepared for Anything* by Chris Hadfield~~
 * ~~*Siddhartha* by Hermann Hesse~~
 * *The Ground Breaking: An American City and Its Search for Justice* by Scott Ellsworth
 * ~~*The Ottoman Empire* by Kenneth W. Harl and The Great Courses~~
@@ -271,6 +271,7 @@ Dennis E. Taylor
 * *Earthside* by Dennis E. Taylor
 * ~~*A Change of Plans* by Dennis E. Taylor~~
 * *Roadkill* by Dennis E. Taylor
+* *Feedback* by Dennis E. Taylor
 
 John Bierce
 -----------
