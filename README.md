@@ -271,7 +271,7 @@ Dennis E. Taylor
 * *Earthside* by Dennis E. Taylor
 * ~~*A Change of Plans* by Dennis E. Taylor~~
 * *Roadkill* by Dennis E. Taylor
-* *Feedback* by Dennis E. Taylor
+* ~~*Feedback* by Dennis E. Taylor~~
 
 John Bierce
 -----------
