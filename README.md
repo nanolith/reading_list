@@ -232,6 +232,7 @@ Vernor Vinge
 * ~~*A Deepness in the Sky* by Vernor Vinge~~
 * ~~*The Children of the Sky* by Vernor Vinge~~
 * ~~*Rainbow's End* by Vernor Vinge~~
+* *The Peace War* by Vernor Vinge
 
 Richard K. Morgan
 -----------------
