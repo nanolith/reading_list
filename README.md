@@ -191,7 +191,7 @@ Novels
 * *Galápagos* by Kurt Vonnegut
 * *Bluebeard* by Kurt Vonnegut
 * *Hocus Pocus* by Kurt Vonnegut
-* *Timequake* by Kurt Vonnegut
+* *Timequake* by Kurt Vonnegut (currently reading)
 
 Fiction
 
