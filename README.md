@@ -94,6 +94,7 @@ Miscellaneous Reads
 * ~~*Genghis Khan and the Making of the Modern World* by Jack Weatherford~~
 * ~~*Whoever Fights Monsters* by Robert K. Ressler and Tom Shachtman~~
 * *The Boys* by Ron Howard
+* *Neuromancer* by William Gibson
 
 Literature from Strand Quiz
 ---------------------------
