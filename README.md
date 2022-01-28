@@ -240,7 +240,7 @@ Charles Dickens
 * *Bleak House* by Charles Dickens
 * *Hard Times* by Charles Dickens
 * *Little Dorrit* by Charles Dickens
-* *A Tale of Two Cities* by Charles Dickens
+* ~~*A Tale of Two Cities* by Charles Dickens~~
 * *Great Expectations* by Charles Dickens
 * *Our Mutual Friend* by Charles Dickens
 
