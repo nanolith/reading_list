@@ -221,6 +221,29 @@ Nonfiction
 * *Vonnegut by the Dozen* by Kurt Vonnegut
 * *Kurt Vonnegut: Letters* by Kurt Vonnegut
 
+Charles Dickens
+---------------
+
+* *The Pickwick Papers* by Charles Dickens
+* *Oliver Twist* by Charles Dickens
+* *Nicholas Nickleby* by Charles Dickens
+* *The Old Curiosity Shop* by Charles Dickens
+* *Barnaby Rudge* by Charles Dickens
+* *Martin Chuzzlewit* by Charles Dickens
+* *A Christmas Carol* by Charles Dickens
+* *The Chimes* by Charles Dickens
+* *The Cricket on the Hearth* by Charles Dickens
+* *The Battle of Life* by Charles Dickens
+* *The Haunted Man and the Ghost's Bargain* by Charles Dickens
+* *Dombey and Son* by Charles Dickens
+* *David Copperfield* by Charles Dickens
+* *Bleak House* by Charles Dickens
+* *Hard Times* by Charles Dickens
+* *Little Dorrit* by Charles Dickens
+* *A Tale of Two Cities* by Charles Dickens
+* *Great Expectations* by Charles Dickens
+* *Our Mutual Friend* by Charles Dickens
+
 Light Reading
 =============
 
