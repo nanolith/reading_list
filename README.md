@@ -230,7 +230,7 @@ Charles Dickens
 * *The Old Curiosity Shop* by Charles Dickens
 * *Barnaby Rudge* by Charles Dickens
 * *Martin Chuzzlewit* by Charles Dickens
-* *A Christmas Carol* by Charles Dickens
+* ~~*A Christmas Carol* by Charles Dickens~~
 * *The Chimes* by Charles Dickens
 * *The Cricket on the Hearth* by Charles Dickens
 * *The Battle of Life* by Charles Dickens
