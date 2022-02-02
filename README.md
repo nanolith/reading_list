@@ -95,6 +95,7 @@ Miscellaneous Reads
 * ~~*Whoever Fights Monsters* by Robert K. Ressler and Tom Shachtman~~
 * *The Boys* by Ron Howard
 * *Neuromancer* by William Gibson
+* *Gone Girl* by Gillian Flynn
 
 Literature from Strand Quiz
 ---------------------------
