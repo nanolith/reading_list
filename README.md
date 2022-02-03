@@ -96,6 +96,7 @@ Miscellaneous Reads
 * *The Boys* by Ron Howard
 * *Neuromancer* by William Gibson
 * *Gone Girl* by Gillian Flynn
+* *Making History* by Stephen Fry
 
 Literature from Strand Quiz
 ---------------------------
