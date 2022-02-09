@@ -77,7 +77,6 @@ Miscellaneous Reads
 * ~~*Congo* by Michael Crichton~~
 * ~~*Real Zen for Real Life* by Bret W. Davis and The Great Courses~~
 * *I Am a Strange Loop* by Douglas R. Hofstadter
-* *David Copperfield* by Charles Dickens
 * ~~*Heavier than Heaven: A Biography of Kurt Cobain* by Charles R. Cross~~
 * ~~*What Happened* by Hillary Rodham Clinton~~
 * *Seven Years in Tibet* by Heinrich Harrer and Richard Graves
