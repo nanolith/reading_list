@@ -389,3 +389,5 @@ Cixin Liu
 ---------
 
 * *The Three Body Problem* by Cixin Liu
+* *The Dark Forest* by Cixin Liu
+* *Death's End* by Cixin Liu
