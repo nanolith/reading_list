@@ -238,7 +238,7 @@ Charles Dickens
 * *The Battle of Life* by Charles Dickens
 * *The Haunted Man and the Ghost's Bargain* by Charles Dickens
 * *Dombey and Son* by Charles Dickens
-* *David Copperfield* by Charles Dickens (currently reading)
+* ~~*David Copperfield* by Charles Dickens~~
 * *Bleak House* by Charles Dickens
 * *Hard Times* by Charles Dickens
 * *Little Dorrit* by Charles Dickens
