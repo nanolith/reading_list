@@ -97,7 +97,7 @@ Miscellaneous Reads
 * *Gone Girl* by Gillian Flynn
 * *Making History* by Stephen Fry
 * *Fear and Loathing in Los Vegas* by Hunter S. Thompson
-* *The Guncle* by Steven Rowley
+* ~~*The Guncle* by Steven Rowley~~
 
 Literature from Strand Quiz
 ---------------------------
