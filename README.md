@@ -96,8 +96,8 @@ Miscellaneous Reads
 * *Neuromancer* by William Gibson
 * *Gone Girl* by Gillian Flynn
 * *Making History* by Stephen Fry
-* *Fear and Loathing in Los Vegas* by Hunter S. Thompson
 * ~~*The Guncle* by Steven Rowley~~
+* *Fear and Loathing in Los Vegas* by Hunter S. Thompson
 
 Literature from Strand Quiz
 ---------------------------
