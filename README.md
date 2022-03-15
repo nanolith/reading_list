@@ -397,3 +397,4 @@ Scott Meyer
 -----------
 
 * *Off to Be the Wizard* by Scott Meyer
+* *Spell or High Water* by Scott Meyer
