@@ -392,3 +392,8 @@ Cixin Liu
 * *The Three Body Problem* by Cixin Liu
 * *The Dark Forest* by Cixin Liu
 * *Death's End* by Cixin Liu
+
+Scott Meyer
+-----------
+
+* *Off to Be the Wizard* by Scott Meyer
