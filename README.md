@@ -401,3 +401,4 @@ Scott Meyer
 * *An Unwelcome Quest* by Scott Meyer
 * *Fight and Flight* by Scott Meyer
 * *Out of Spite, Out of Mind* by Scott Meyer
+* *The Vexed Generation* by Scott Meyer
