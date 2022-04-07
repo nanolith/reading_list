@@ -275,7 +275,7 @@ Richard K. Morgan
 Neal Stephenson
 ---------------
 
-* *Termination Shock* by Neal Stephenson
+* ~~*Termination Shock* by Neal Stephenson~~
 * ~~*Fall; or Dodge in Hell, A Novel* by Neal Stephenson~~
 * ~~*Seveneves* by Neal Stephenson~~
 * ~~*REAMDE* by Neal Stephenson~~
