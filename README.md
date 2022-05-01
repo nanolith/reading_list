@@ -399,7 +399,7 @@ Scott Meyer
 -----------
 
 * ~~*Off to Be the Wizard* by Scott Meyer~~
-* *Spell or High Water* by Scott Meyer (currently reading)
+* *Spell or High Water* by Scott Meyer
 * *An Unwelcome Quest* by Scott Meyer
 * *Fight and Flight* by Scott Meyer
 * *Out of Spite, Out of Mind* by Scott Meyer
