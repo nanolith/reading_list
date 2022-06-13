@@ -288,6 +288,7 @@ Neal Stephenson
 * ~~*The Diamond Age* by Neal Stephenson~~
 * ~~*The Cobweb* by Neal Stephenson~~
 * ~~*Zodiac* by Neal Stephenson~~
+* *Interface* by Neal Stephenson and J. Frederick George
 
 Dennis E. Taylor
 ----------------
