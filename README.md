@@ -422,7 +422,7 @@ Harry Turtledove
 * ~~*Blood and Iron* by Harry Turtledove~~
 * ~~*The Center Cannot Hold* by Harry Turtledove~~
 * ~~*The Victorious Opposition* by Harry Turtledove~~
-* *Return Engagement* by Harry Turtledove (currently reading)
+* ~~*Return Engagement* by Harry Turtledove~~
 * *Drive to the East* by Harry Turtledove
 * *The Grapple* by Harry Turtledove
 * *In at the Death* by Harry Turtledove
