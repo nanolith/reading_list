@@ -98,6 +98,7 @@ Miscellaneous Reads
 * *Making History* by Stephen Fry
 * ~~*The Guncle* by Steven Rowley~~
 * *Fear and Loathing in Los Vegas* by Hunter S. Thompson
+* ~~*Understanding Japan: A Cultural History* by Mark J. Ravina and The Great Courses~~
 
 Literature from Strand Quiz
 ---------------------------
