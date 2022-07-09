@@ -15,9 +15,94 @@ attribution when known.
 Great Books of the Western World (1990s edition)
 ------------------------------------------------
 * Volumes 1 and 2 are the Syntopicon, which is reference and not part of the reading list.
-* Volume 3 - Homer
-  * The Iliad by Homer
-  * The Odyssey by Homer
+* Volume 3: Homer
+  * *The Iliad* by Homer
+  * *The Odyssey* by Homer
+* Volume 4: Aeschylus, Sophocles, Euripides, Aristophanes
+  * *The Suppliant Maidens* by Aeschylus and Seth G. Benardete
+  * *The Persians* by Aeschylus and Seth G. Benardete
+  * *Seven Against Thebes* by Aeschylus and David Grene
+  * *Prometheus Bound* by Aeschylus and David Grene
+  * *Agamemnon* by Aeschylus and Richmond Lattimore
+  * *The Libation Bearers* by Aeschylus and Richmond Lattimore
+  * *The Eumenides* by Aeschylus and Richmond Lattimore
+  * *Oedipus the King* by Sophocles and David Grene
+  * *Oedipus at Colonus* by Sophocles and Robert Fitzgerald
+  * *Antigone* by Sophocles and Elizabeth Wyckoff
+  * *Ajax* by Sophocles and John Moore
+  * *Electra* by Sophocles and David Grene
+  * *The Women of Trachis* by Sophocles and Michael Jameson
+  * *Philoctetes* by Sophocles and David Grene
+  * *Rhesus* by Euripides and Richmond Lattimore
+  * *The Medea* by Euripides and Rex Warner
+  * *Hippolytus* by Euripides and David Grene
+  * *Alcestis* by Euripides and Richmond Lattimore
+  * *The Heracleiadae* by Euripides and Ralph Gladstone
+  * *The Suppliant Women* by Euripides and Frank William Jones
+  * *The Trojan Women* by Euripides and Richmond Lattimore
+  * *Ion* by Euripides and Ronald Frederick Willetts
+  * *Helen* by Euripides and Richmond Lattimore
+  * *Andromache* by Euripides and John Frederick Nims
+  * *Electra* by Euripides and Emily Townsend Vermeule
+  * *The Bacchae* by Euripides and William Arrowsmith
+  * *Hecuba* by Euripides and William Arrowsmith
+  * *Heracles* by Euripides and William Arrowsmith
+  * *The Phoenician Women* by Euripides and Elizabeth Wyckoff
+  * *Orestes* by Euripides and William Arrowsmith
+  * *Iphigenia in Tauris* by Euripides and Witter Bynner
+  * *Iphigenia in Aulis* by Euripides and Charles R. Walker
+  * *The Cyclops* by Euripides and William Arrowsmith
+  * *The Acharnians* by Aristophanes and Alan H. Sommerstein
+  * *The Knights* by Aristophanes and Alan H. Sommerstein
+  * *The Clouds* by Aristophanes and Alan H. Sommerstein
+  * *The Wasps* by Aristophanes and David Barrett
+  * *Peace* by Aristophanes and Alan H. Sommerstein
+  * *The Birds* by Aristophanes and David Barrett
+  * *The Frogs* by Aristophanes and David Barrett
+  * *Lysistrata* by Aristophanes and Alan H. Sommerstein
+  * *The Poet and the Women* by Aristophanes and David Barrett
+  * *The Assemblywomen* by Aristophanes and David Barrett
+  * *Wealth* by Aristophanes and Alan H. Sommerstein
+* Volume 5: Herodotus, Thucydides
+  * *The History* by Herodotus and George Rawlinson
+  * *The History of the Peloponnesian War* by Thucydides and Richard Rawley
+* Volume 6: Plato
+  * *Dialogues* by Plato and Benjamin Jowett
+  * *The Seventh Letter* by Plato and J. Harward
+* Volume 7: Aristotle I
+  * *Categories* by Aristotle and E.M. Edghill
+  * *On Interpretation* by Aristotle and E.M. Edghill
+  * *Prior Analytics* by Aristotle and A.J. Jenkinson
+  * *Posterior Analytics* by Aristotle and G.R.G. Mure
+  * *Topics* by Aristotle and W.A. Pickard-Cambridge
+  * *On Sophistical Refutations* by Aristotle and W.A. Pickard-Cambridge
+  * *Physics* by Aristotle, R.P. Hardie, and R.K. Gaye
+  * *On the Heavens* by Aristotle and J.L. Stocks
+  * *On Generation and Corruption* by Aristotle and H.H. Joachim
+  * *Meteorology* by Aristotle and E.W. Webster
+  * *Metaphysics* by Aristotle and W.D. Ross
+  * *On the Soul* by Aristotle and J.A. Smith
+  * *On Sense and the Sensible* by Aristotle and J.I. Beare
+  * *On Memory and Reminiscence* by Aristotle and J.I. Beare
+  * *On Sleep and Sleeplessness* by Aristotle and J.I. Beare
+  * *On Dreams* by Aristotle and J.I. Beare
+  * *On Prophesying by Dreams* by Aristotle and J.I. Beare
+  * *On Longevity and Shortness of Life* by Aristotle and G.R.T. Ross
+  * *On Youth and Old Age* by Aristotle and G.R.T. Ross
+  * *On Life and Death* by Aristotle and G.R.T. Ross
+  * *On Breathing* by Aristotle and G.R.T. Ross
+* Volume 8: Aristotle II
+  * *History of Animals* by Aristotle and D’Arcy Wentworth Thompson
+  * *On the Parts of Animals* by Aristotle and William Ogle
+  * *On the Motion of Animals* by Aristotle and A.S.L. Farquharson
+  * *On the Gait of Animals* by Aristotle and A.S.L. Farquharson
+  * *On the Generation of Animals* by Aristotle and Arthur Platt
+  * *Nicomachean Ethics* by Aristotle and W.D. Ross
+  * *Politics* by Aristotle and Benjamin Jowett
+  * *The Athenian Constitution* by Aristotle and Sir Frederic G. Kenyon
+  * *Rhetoric* by Aristotle and W. Rhys Roberts
+  * *On Poetics* by Aristotle and Ingram Bywater
+* more volumes to be added
 
 Isaac Asimov Foundation Series
 ------------------------------
