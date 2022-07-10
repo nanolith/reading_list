@@ -235,7 +235,7 @@ Miscellaneous Reads
 * ~~*The American West: History, Myth, and Legacy* by Patrick N. Allitt and The Great Courses~~
 * ~~*Genghis Khan and the Making of the Modern World* by Jack Weatherford~~
 * ~~*Whoever Fights Monsters* by Robert K. Ressler and Tom Shachtman~~
-* *The Boys* by Ron Howard
+* ~~*The Boys* by Ron Howard~~
 * *Neuromancer* by William Gibson
 * *Gone Girl* by Gillian Flynn
 * *Making History* by Stephen Fry
