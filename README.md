@@ -102,7 +102,58 @@ Great Books of the Western World (1990s edition)
   * *The Athenian Constitution* by Aristotle and Sir Frederic G. Kenyon
   * *Rhetoric* by Aristotle and W. Rhys Roberts
   * *On Poetics* by Aristotle and Ingram Bywater
-* more volumes to be added
+* Volume 9: Hippocrates, Galen
+* Volume 10: Euclid, Archimedes, Nicomachus
+* Volume 11: Lucretius, Epictetus, Marcus Aurelius, Plotinus
+* Volume 12: Virgil
+* Volume 13: Plutarch
+* Volume 14: Tacitus
+* Volume 15: Ptolemy, Copernicus, Kepler
+* Volume 16: Augustine
+* Volume 17: Aquinas I
+* Volume 18: Aquinas II
+* Volume 19: Dante, Chaucer
+* Volume 20: Calvin
+* Volume 21: Machiavelli, Hobbes
+* Volume 22: Rabelais
+* Volume 23: Erasmus, Montaigne
+* Volume 24: Shakespeare I
+* Volume 25: Shakespeare II
+* Volume 26: Gilbert, Galileo, Harvey
+* Volume 27: Cervantes
+* Volume 28: Bacon, Descartes, Spinoza
+* Volume 29: Milton
+* Volume 30: Pascal
+* Volume 31: Molière, Racine
+* Volume 32: Newton, Huygens
+* Volume 33: Locke, Berkeley, Hume
+* Volume 34: Swift, Voltaire, Diderot
+* Volume 35: Montesquieu, Rousseau
+* Volume 36: Adam Smith
+* Volume 37: Gibbon I
+* Volume 38: Gibbon II
+* Volume 39: Kant
+* Volume 40: American State Papers, Federalist, J.S. Mill
+* Volume 41: Boswell
+* Volume 42: Lavoisier, Faraday
+* Volume 43: Hegel, Kierkegaard, Nietzsche
+* Volume 44: Tocqueville
+* Volume 45: Goethe, Balzac
+* Volume 46: Austen, George Eliot
+* Volume 47: Dickens
+* Volume 48: Melville, Twain
+* Volume 49: Darwin
+* Volume 50: Marx, Engels
+* Volume 51: Tolstoy
+* Volume 52: Dostoevsky, Ibsen
+* Volume 53: William James
+* Volume 54: Freud
+* Volume 55: 20th Century Philosophy and Religion
+* Volume 56: 20th Century Natural Science
+* Volume 57: 20th Century Social Science I
+* Volume 58: 20th Century Social Science II
+* Volume 59: 20th Century Imaginative Literature I
+* Volume 60: 20th Century Imaginative Literature II
 
 Isaac Asimov Foundation Series
 ------------------------------
