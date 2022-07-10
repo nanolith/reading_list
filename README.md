@@ -16,7 +16,7 @@ Great Books of the Western World (1990s edition)
 ------------------------------------------------
 * Volumes 1 and 2 are the Syntopicon, which is reference and not part of the reading list.
 * Volume 3: Homer
-  * *The Iliad* by Homer
+  * ~~*The Iliad* by Homer~~
   * *The Odyssey* by Homer
 * Volume 4: Aeschylus, Sophocles, Euripides, Aristophanes
   * *The Suppliant Maidens* by Aeschylus and Seth G. Benardete
