@@ -231,7 +231,7 @@ Miscellaneous Reads
 * ~~*Midnight's Children* by Salman Rushdie~~
 * ~~*Run, Hide, Repeat: A Memoir of a Fugitive Childhood* by Pauline Dakin~~
 * *Indestructible: The Unforgettable Memoir of a Marine Hero at the Battle of Iwo Jima* by Jack H. Lucas and D.K. Drum
-* *Love, Lucy* by Lucille Ball
+* ~~*Love, Lucy* by Lucille Ball~~
 * ~~*The American West: History, Myth, and Legacy* by Patrick N. Allitt and The Great Courses~~
 * ~~*Genghis Khan and the Making of the Modern World* by Jack Weatherford~~
 * ~~*Whoever Fights Monsters* by Robert K. Ressler and Tom Shachtman~~
