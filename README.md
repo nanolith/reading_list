@@ -22,7 +22,7 @@ Great Books of the Western World (1990s edition)
   * ~~*The Suppliant Maidens* by Aeschylus and Seth G. Benardete~~
   * ~~*The Persians* by Aeschylus and Seth G. Benardete~~
   * ~~*Seven Against Thebes* by Aeschylus and David Grene~~
-  * *Prometheus Bound* by Aeschylus and David Grene
+  * ~~*Prometheus Bound* by Aeschylus and David Grene~~
   * *Agamemnon* by Aeschylus and Richmond Lattimore
   * *The Libation Bearers* by Aeschylus and Richmond Lattimore
   * *The Eumenides* by Aeschylus and Richmond Lattimore
