@@ -23,7 +23,7 @@ Great Books of the Western World (1990s edition)
   * ~~*The Persians* by Aeschylus and Seth G. Benardete~~
   * ~~*Seven Against Thebes* by Aeschylus and David Grene~~
   * ~~*Prometheus Bound* by Aeschylus and David Grene~~
-  * *Agamemnon* by Aeschylus and Richmond Lattimore
+  * ~~*Agamemnon* by Aeschylus and Richmond Lattimore~~
   * *The Libation Bearers* by Aeschylus and Richmond Lattimore
   * *The Eumenides* by Aeschylus and Richmond Lattimore
   * *Oedipus the King* by Sophocles and David Grene
@@ -212,7 +212,7 @@ Miscellaneous Reads
 * ~~*A Captain's Duty: Somali Pirates, Navy SEALs, and Dangerous Days at Sea* by Richard Phillips and Stephan Talty~~
 * ~~*An Astronaut's Guide to Life on Earth: What Going to Space Taught Me About Ingenuity, Determination, and Being Prepared for Anything* by Chris Hadfield~~
 * ~~*Siddhartha* by Hermann Hesse~~
-* *The Ground Breaking: An American City and Its Search for Justice* by Scott Ellsworth (currently reading)
+* ~~*The Ground Breaking: An American City and Its Search for Justice* by Scott Ellsworth~~
 * ~~*The Ottoman Empire* by Kenneth W. Harl and The Great Courses~~
 * *The World as Will and Representation, Vol 1* by Arthur Schopenhauer.
 * ~~*From Yao to Mao: 5000 Years of Chinese History* by Kenneth J. Hammond and The Great Courses~~
