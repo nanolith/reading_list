@@ -244,6 +244,7 @@ Miscellaneous Reads
 * ~~*Understanding Japan: A Cultural History* by Mark J. Ravina and The Great Courses~~
 * ~~*Emerson, Thoreau, and the Transcendentalist Movement* by Ashton Nichols and The Great Courses~~
 * ~~*The Art of War* by Andrew R. Wilson and The Great Courses~~
+* *Cultural Literacy for Religion: Everything the Well-Educated Person Should Know* by Mark Berkson and The Great Courses
 
 Literature from Strand Quiz
 ---------------------------
