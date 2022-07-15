@@ -303,6 +303,48 @@ to get reading.
 
 [strand-quiz]: http://www.nytimes.com/interactive/2016/07/14/nyregion/strand-quiz.html
 
+Thirty-Six Books that Changed The World
+---------------------------------------
+
+From the lecture series of the same name.
+
+* *The Epic of Gilgamesh*
+* *The Odyssey* by Homer
+* *The Bhagavad Gita*
+* *The Art of War* by Sun Tzu
+* *The Analects* by Confucius
+* *Histories* by Herodotus
+* *The Republic* by Plato
+* *Nicomachean Ethics* by Aristotle
+* *Metamorphoses* by Ovid
+* *Meditations* by Marcus Aurelius
+* *Confessions* by St. Augustine
+* *The Qur'an*
+* *The Liber Abaci* by Fibonacci
+* *The Divine Comedy* by Dante
+* *The Prince* by Machiavelli
+* *On the Revolutions of the Heavenly Orbs* by Copernicus
+* *Hamlet* by Shakespeare
+* *Don Quixote* by Cervantes
+* *The King James Bible*
+* *The New Organum* by Francis Bacon
+* *Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers* by Denis Diderot and Jean le Rond d'Alembert
+* *A Dictionary of the English Language* by Samuel Johnson
+* *Common Sense* by Thomas Paine
+* *The Wealth of Nations* by Adam Smith
+* *The Federalist Papers* by Madison, Hamilton, and Jay
+* *The Autobiography of Benjamin Franklin* by Benjamin Franklin
+* *A Vindication of the Rights of Woman* by Mary Wolstonecraft
+* *Democracy in America* by Alexis de Tocqueville
+* *The Communist Manifesto* by Marx and Engel
+* *Uncle Tom's Cabin* by Harriet Beecher Stowe
+* *On the Origin of Species* by Charles Darwin
+* *On Liberty* by John Stuart Mill
+* *The Jungle* by Upton Sinclair
+* *Being and Time* by Martin Heidegger
+* *One Day in the Life of Ivan Denisovich* by Aleksandr Solzhenitsyn
+* *The Feminine Mystique* by Betty Friedan
+
 Follow-Ups
 ----------
 
