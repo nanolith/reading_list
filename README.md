@@ -24,7 +24,7 @@ Great Books of the Western World (1990s edition)
   * ~~*Seven Against Thebes* by Aeschylus and David Grene~~
   * ~~*Prometheus Bound* by Aeschylus and David Grene~~
   * ~~*Agamemnon* by Aeschylus and Richmond Lattimore~~
-  * *The Libation Bearers* by Aeschylus and Richmond Lattimore
+  * ~~*The Libation Bearers* by Aeschylus and Richmond Lattimore~~
   * *The Eumenides* by Aeschylus and Richmond Lattimore
   * *Oedipus the King* by Sophocles and David Grene
   * *Oedipus at Colonus* by Sophocles and Robert Fitzgerald
