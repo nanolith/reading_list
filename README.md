@@ -27,7 +27,7 @@ Great Books of the Western World (1990s edition)
   * ~~*The Libation Bearers* by Aeschylus and Richmond Lattimore~~
   * ~~*The Eumenides* by Aeschylus and Richmond Lattimore~~
   * ~~*Oedipus the King* by Sophocles and David Grene~~
-  * *Oedipus at Colonus* by Sophocles and Robert Fitzgerald
+  * ~~*Oedipus at Colonus* by Sophocles and Robert Fitzgerald~~
   * *Antigone* by Sophocles and Elizabeth Wyckoff
   * *Ajax* by Sophocles and John Moore
   * *Electra* by Sophocles and David Grene
