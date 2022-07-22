@@ -30,7 +30,7 @@ Great Books of the Western World (1990s edition)
   * ~~*Oedipus at Colonus* by Sophocles and Robert Fitzgerald~~
   * ~~*Antigone* by Sophocles and Elizabeth Wyckoff~~
   * ~~*Ajax* by Sophocles and John Moore~~
-  * *Electra* by Sophocles and David Grene
+  * ~~*Electra* by Sophocles and David Grene~~
   * *The Women of Trachis* by Sophocles and Michael Jameson
   * *Philoctetes* by Sophocles and David Grene
   * *Rhesus* by Euripides and Richmond Lattimore
