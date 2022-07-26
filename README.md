@@ -245,7 +245,7 @@ Miscellaneous Reads
 * ~~*Emerson, Thoreau, and the Transcendentalist Movement* by Ashton Nichols and The Great Courses~~
 * ~~*The Art of War* by Andrew R. Wilson and The Great Courses~~
 * ~~*Cultural Literacy for Religion: Everything the Well-Educated Person Should Know* by Mark Berkson and The Great Courses~~
-* *The Other Side of History: Daily Life in the Ancient World* by Robert Garland and The Great Courses
+* ~~*The Other Side of History: Daily Life in the Ancient World* by Robert Garland and The Great Courses~~
 
 Literature from Strand Quiz
 ---------------------------
