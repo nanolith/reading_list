@@ -33,7 +33,7 @@ Great Books of the Western World (1990s edition)
   * ~~*Electra* by Sophocles and David Grene~~
   * ~~*The Women of Trachis* by Sophocles and Michael Jameson~~
   * ~~*Philoctetes* by Sophocles and David Grene~~
-  * *Rhesus* by Euripides and Richmond Lattimore
+  * ~~*Rhesus* by Euripides and Richmond Lattimore~~
   * *The Medea* by Euripides and Rex Warner
   * *Hippolytus* by Euripides and David Grene
   * *Alcestis* by Euripides and Richmond Lattimore
