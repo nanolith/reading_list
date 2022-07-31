@@ -552,7 +552,7 @@ Terry Mancour (Spellmonger Series)
 * ~~*Footwizard* by Terry Mancour~~
 * *Hedgewitch* by Terry Mancour
 * ~~*The Wizards of Sevendor* by Terry Mancour~~
-* *The Spellmonger's Honeymoon* by Terry Mancour
+* ~~*The Spellmonger's Honeymoon* by Terry Mancour~~
 
 Andy Weir
 ---------
