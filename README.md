@@ -35,7 +35,7 @@ Great Books of the Western World (1990s edition)
   * ~~*Philoctetes* by Sophocles and David Grene~~
   * ~~*Rhesus* by Euripides and Richmond Lattimore~~
   * ~~*The Medea* by Euripides and Rex Warner~~
-  * *Hippolytus* by Euripides and David Grene
+  * ~~*Hippolytus* by Euripides and David Grene~~
   * *Alcestis* by Euripides and Richmond Lattimore
   * *The Heracleiadae* by Euripides and Ralph Gladstone
   * *The Suppliant Women* by Euripides and Frank William Jones
