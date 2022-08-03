@@ -246,7 +246,7 @@ Miscellaneous Reads
 * ~~*The Art of War* by Andrew R. Wilson and The Great Courses~~
 * ~~*Cultural Literacy for Religion: Everything the Well-Educated Person Should Know* by Mark Berkson and The Great Courses~~
 * ~~*The Other Side of History: Daily Life in the Ancient World* by Robert Garland and The Great Courses~~
-* *No Excuses: Existentialism and the Meaning of Life* by Robert C. Solomon and The Great Courses
+* ~~*No Excuses: Existentialism and the Meaning of Life* by Robert C. Solomon and The Great Courses~~
 
 Literature from Strand Quiz
 ---------------------------
