@@ -39,7 +39,7 @@ Great Books of the Western World (1990s edition)
   * ~~*Alcestis* by Euripides and Richmond Lattimore~~
   * ~~*The Heracleiadae* by Euripides and Ralph Gladstone~~
   * ~~*The Suppliant Women* by Euripides and Frank William Jones~~
-  * *The Trojan Women* by Euripides and Richmond Lattimore
+  * ~~*The Trojan Women* by Euripides and Richmond Lattimore~~
   * *Ion* by Euripides and Ronald Frederick Willetts
   * *Helen* by Euripides and Richmond Lattimore
   * *Andromache* by Euripides and John Frederick Nims
