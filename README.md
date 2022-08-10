@@ -42,7 +42,7 @@ Great Books of the Western World (1990s edition)
   * ~~*The Trojan Women* by Euripides and Richmond Lattimore~~
   * ~~*Ion* by Euripides and Ronald Frederick Willetts~~
   * ~~*Helen* by Euripides and Richmond Lattimore~~
-  * *Andromache* by Euripides and John Frederick Nims
+  * ~~*Andromache* by Euripides and John Frederick Nims~~
   * *Electra* by Euripides and Emily Townsend Vermeule
   * *The Bacchae* by Euripides and William Arrowsmith
   * *Hecuba* by Euripides and William Arrowsmith
