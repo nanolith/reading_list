@@ -47,7 +47,7 @@ Great Books of the Western World (1990s edition)
   * ~~*The Bacchae* by Euripides and William Arrowsmith~~
   * ~~*Hecuba* by Euripides and William Arrowsmith~~
   * ~~*Heracles* by Euripides and William Arrowsmith~~
-  * *The Phoenician Women* by Euripides and Elizabeth Wyckoff
+  * ~~*The Phoenician Women* by Euripides and Elizabeth Wyckoff~~
   * *Orestes* by Euripides and William Arrowsmith
   * *Iphigenia in Tauris* by Euripides and Witter Bynner
   * *Iphigenia in Aulis* by Euripides and Charles R. Walker
