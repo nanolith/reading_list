@@ -50,7 +50,7 @@ Great Books of the Western World (1990s edition)
   * ~~*The Phoenician Women* by Euripides and Elizabeth Wyckoff~~
   * ~~*Orestes* by Euripides and William Arrowsmith~~
   * ~~*Iphigenia in Tauris* by Euripides and Witter Bynner~~
-  * *Iphigenia in Aulis* by Euripides and Charles R. Walker
+  * ~~*Iphigenia in Aulis* by Euripides and Charles R. Walker~~
   * *The Cyclops* by Euripides and William Arrowsmith
   * *The Acharnians* by Aristophanes and Alan H. Sommerstein
   * *The Knights* by Aristophanes and Alan H. Sommerstein
