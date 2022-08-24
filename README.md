@@ -553,7 +553,7 @@ Terry Mancour (Spellmonger Series)
 * ~~*Road to Sevendor* by Terry Mancour~~
 * ~~*Arcanist* by Terry Mancour~~
 * ~~*Footwizard* by Terry Mancour~~
-* *Hedgewitch* by Terry Mancour
+* ~~*Hedgewitch* by Terry Mancour~~
 * ~~*The Wizards of Sevendor* by Terry Mancour~~
 * ~~*The Spellmonger's Honeymoon* by Terry Mancour~~
 
