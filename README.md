@@ -53,7 +53,7 @@ Great Books of the Western World (1990s edition)
   * ~~*Iphigenia in Aulis* by Euripides and Charles R. Walker~~
   * ~~*The Cyclops* by Euripides and William Arrowsmith~~
   * ~~*The Acharnians* by Aristophanes and Alan H. Sommerstein~~
-  * *The Knights* by Aristophanes and Alan H. Sommerstein
+  * ~~*The Knights* by Aristophanes and Alan H. Sommerstein~~
   * *The Clouds* by Aristophanes and Alan H. Sommerstein
   * *The Wasps* by Aristophanes and David Barrett
   * *Peace* by Aristophanes and Alan H. Sommerstein
