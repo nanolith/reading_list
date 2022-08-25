@@ -65,7 +65,24 @@ Great Books of the Western World (1990s edition)
   * *Wealth* by Aristophanes and Alan H. Sommerstein
 * Volume 5: Herodotus, Thucydides
   * *The History* by Herodotus and George Rawlinson
+  * *Clio*
+  * *Euterpé*
+  * *Thalia*
+  * *Melpomene*
+  * *Terpsichore*
+  * *Erato*
+  * *Polymnia*
+  * *Urania*
+  * *Calliope*
   * *The History of the Peloponnesian War* by Thucydides and Richard Rawley
+  * *The First Book*
+  * *The Second Book*
+  * *The Third Book*
+  * *The Fourth Book*
+  * *The Fifth Book*
+  * *The Sixth Book*
+  * *The Seventh Book*
+  * *The Eighth Book*
 * Volume 6: Plato
   * *Dialogues* by Plato and Benjamin Jowett
   * *The Seventh Letter* by Plato and J. Harward
