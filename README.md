@@ -55,7 +55,7 @@ Great Books of the Western World (1990s edition)
   * ~~*The Acharnians* by Aristophanes and Alan H. Sommerstein~~
   * ~~*The Knights* by Aristophanes and Alan H. Sommerstein~~
   * ~~*The Clouds* by Aristophanes and Alan H. Sommerstein~~
-  * *The Wasps* by Aristophanes and David Barrett
+  * ~~*The Wasps* by Aristophanes and David Barrett~~
   * *Peace* by Aristophanes and Alan H. Sommerstein
   * *The Birds* by Aristophanes and David Barrett
   * *The Frogs* by Aristophanes and David Barrett
