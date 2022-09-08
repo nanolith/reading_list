@@ -253,7 +253,7 @@ Miscellaneous Reads
 * ~~*Genghis Khan and the Making of the Modern World* by Jack Weatherford~~
 * ~~*Whoever Fights Monsters* by Robert K. Ressler and Tom Shachtman~~
 * ~~*The Boys* by Ron Howard~~
-* *Neuromancer* by William Gibson
+* ~~*Neuromancer* by William Gibson~~
 * *Gone Girl* by Gillian Flynn
 * *Making History* by Stephen Fry
 * ~~*The Guncle* by Steven Rowley~~
