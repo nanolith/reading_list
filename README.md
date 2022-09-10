@@ -62,7 +62,7 @@ Great Books of the Western World (1990s edition)
   * ~~*Lysistrata* by Aristophanes and Alan H. Sommerstein~~
   * ~~*The Poet and the Women* by Aristophanes and David Barrett~~
   * ~~*The Assemblywomen* by Aristophanes and David Barrett~~
-  * *Wealth* by Aristophanes and Alan H. Sommerstein
+  * ~~*Wealth* by Aristophanes and Alan H. Sommerstein~~
 * Volume 5: Herodotus, Thucydides
   * *The History* by Herodotus and George Rawlinson
   * *Clio*
