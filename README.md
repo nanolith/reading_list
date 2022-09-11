@@ -636,3 +636,9 @@ Harry Turtledove
 * *Drive to the East* by Harry Turtledove
 * *The Grapple* by Harry Turtledove
 * *In at the Death* by Harry Turtledove
+
+William Gibson
+--------------
+* ~~*Neuromancer* by William Gibson~~
+* *Count Zero* by William Gibson
+* *Mona Lisa Overdrive* by William Gibson
