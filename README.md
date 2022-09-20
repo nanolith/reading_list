@@ -524,6 +524,7 @@ John Bierce
 * ~~*The Lost City of Ithos* by John Bierce~~
 * ~~*The Siege of Skyhold* by John Bierce~~
 * ~~*Tongue Eater* by John Bierce~~
+* Gram of Clan Castis by John Bierce
 
 Ernest Cline
 ------------
