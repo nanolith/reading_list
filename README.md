@@ -523,7 +523,7 @@ John Bierce
 * ~~*A Traitor in Skyhold* by John Bierce~~
 * ~~*The Lost City of Ithos* by John Bierce~~
 * ~~*The Siege of Skyhold* by John Bierce~~
-* *Tongue Eater* by John Bierce
+* ~~*Tongue Eater* by John Bierce~~
 
 Ernest Cline
 ------------
