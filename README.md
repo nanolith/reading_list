@@ -574,6 +574,7 @@ Terry Mancour (Spellmonger Series)
 * ~~*Hedgewitch* by Terry Mancour~~
 * ~~*The Wizards of Sevendor* by Terry Mancour~~
 * ~~*The Spellmonger's Honeymoon* by Terry Mancour~~
+* The Mad Mage of Sevendor by Terry Mancour
 
 Andy Weir
 ---------
