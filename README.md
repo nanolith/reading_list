@@ -575,6 +575,7 @@ Terry Mancour (Spellmonger Series)
 * ~~*The Wizards of Sevendor* by Terry Mancour~~
 * ~~*The Spellmonger's Honeymoon* by Terry Mancour~~
 * The Mad Mage of Sevendor by Terry Mancour
+* Marshal Arcane by Terry Mancour
 
 Andy Weir
 ---------
