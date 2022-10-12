@@ -344,7 +344,7 @@ From the lecture series of the same name.
 * *The Qur'an*
 * *The Liber Abaci* by Fibonacci
 * *The Divine Comedy* by Dante
-* *The Prince* by Machiavelli
+* ~~*The Prince* by Machiavelli~~
 * *On the Revolutions of the Heavenly Orbs* by Copernicus
 * *Hamlet* by Shakespeare
 * *Don Quixote* by Cervantes
