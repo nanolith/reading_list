@@ -358,7 +358,7 @@ From the lecture series of the same name.
 * *The Autobiography of Benjamin Franklin* by Benjamin Franklin
 * *A Vindication of the Rights of Woman* by Mary Wolstonecraft
 * *Democracy in America* by Alexis de Tocqueville
-* *The Communist Manifesto* by Marx and Engel
+* ~~*The Communist Manifesto* by Marx and Engel~~
 * *Uncle Tom's Cabin* by Harriet Beecher Stowe
 * *On the Origin of Species* by Charles Darwin
 * *On Liberty* by John Stuart Mill
