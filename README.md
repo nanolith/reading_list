@@ -375,7 +375,7 @@ Based on [this YouTube Video][bookpilled-15-best-sci-fi-books-updated]. I seemed
 [bookpilled-15-best-sci-fi-books-updated]: https://www.youtube.com/watch?v=pP0XnfC1jVM
 
 1. *Master of Paxwax* by Phillip Mann
-2. *A Fire Upon the Deep* by Vernor Vinge
+2. ~~*A Fire Upon the Deep* by Vernor Vinge~~
 3. *Solaris* by Stanislaw Lem
 4. *The Dying Earth* by Jack Vance
 5. ~~*Blood Music* by Greg Bear~~
