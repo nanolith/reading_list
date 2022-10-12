@@ -347,7 +347,7 @@ From the lecture series of the same name.
 * ~~*The Prince* by Machiavelli~~
 * *On the Revolutions of the Heavenly Orbs* by Copernicus
 * *Hamlet* by Shakespeare
-* *Don Quixote* by Cervantes
+* ~~*Don Quixote* by Cervantes~~
 * *The King James Bible*
 * *The New Organum* by Francis Bacon
 * *Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers* by Denis Diderot and Jean le Rond d'Alembert
