@@ -388,7 +388,7 @@ Based on [this YouTube Video][bookpilled-15-best-sci-fi-books-updated]. I seemed
 12. *Frankenstein* by Mary Shelley
 13. *The Stars My Destination* by Alfred Bester
 14. *The Mote in God's Eye* by Larry Niven and Jerry Pournelle
-15. *Dune* by Frank Herbert
+15. ~~*Dune* by Frank Herbert~~
 
 Follow-Ups
 ----------
