@@ -367,6 +367,29 @@ From the lecture series of the same name.
 * *One Day in the Life of Ivan Denisovich* by Aleksandr Solzhenitsyn
 * *The Feminine Mystique* by Betty Friedan
 
+The 15 Best Sci-Fi Books
+------------------------
+
+Based on [this YouTube Video][bookpilled-15-best-sci-fi-books-updated]. I seemed to agree with the choices, at least with the books that I had read, so I thought I'd check out the ones I hadn't yet read.
+
+[bookpilled-15-best-sci-fi-books-updated]: https://www.youtube.com/watch?v=pP0XnfC1jVM
+
+1. *Master of Paxwax* by Phillip Mann
+2. *A Fire Upon the Deep* by Vernor Vinge
+3. *Solaris* by Stanislaw Lem
+4. *The Dying Earth* by Jack Vance
+5. *Blood Music* by Greg Bear
+6. *Neuromancer* by William Gibson
+7. *Hothouse* by Brian Aldiss
+8. *City* by Clifford D. Simak
+9. *Norstrilia* by Cordwainer Smith
+10. *The Dispossessed* by Ursula K. LeGuin
+11. *The War of the Worlds* by H.G. Wells
+12. *Frankenstein* by Mary Shelley
+13. *The Stars My Destination* by Alfred Bester
+14. *The Mote in God's Eye* by Larry Niven and Jerry Pournelle
+15. *Dune* by Frank Herbert
+
 Follow-Ups
 ----------
 
