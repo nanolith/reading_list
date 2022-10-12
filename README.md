@@ -378,7 +378,7 @@ Based on [this YouTube Video][bookpilled-15-best-sci-fi-books-updated]. I seemed
 2. *A Fire Upon the Deep* by Vernor Vinge
 3. *Solaris* by Stanislaw Lem
 4. *The Dying Earth* by Jack Vance
-5. *Blood Music* by Greg Bear
+5. ~~*Blood Music* by Greg Bear~~
 6. ~~*Neuromancer* by William Gibson~~
 7. *Hothouse* by Brian Aldiss
 8. *City* by Clifford D. Simak
