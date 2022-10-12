@@ -385,7 +385,7 @@ Based on [this YouTube Video][bookpilled-15-best-sci-fi-books-updated]. I seemed
 9. *Norstrilia* by Cordwainer Smith
 10. *The Dispossessed* by Ursula K. LeGuin
 11. *The War of the Worlds* by H.G. Wells
-12. *Frankenstein* by Mary Shelley
+12. ~~*Frankenstein* by Mary Shelley~~
 13. *The Stars My Destination* by Alfred Bester
 14. ~~*The Mote in God's Eye* by Larry Niven and Jerry Pournelle~~
 15. ~~*Dune* by Frank Herbert~~
