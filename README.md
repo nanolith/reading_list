@@ -331,7 +331,7 @@ Thirty-Six Books that Changed The World
 From the lecture series of the same name.
 
 * *The Epic of Gilgamesh*
-* *The Odyssey* by Homer
+* ~~*The Odyssey* by Homer~~
 * *The Bhagavad Gita*
 * *The Art of War* by Sun Tzu
 * *The Analects* by Confucius
