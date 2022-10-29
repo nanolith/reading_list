@@ -65,7 +65,7 @@ Great Books of the Western World (1990s edition)
   * ~~*Wealth* by Aristophanes and Alan H. Sommerstein~~
 * Volume 5: Herodotus, Thucydides
   * *The History* by Herodotus and George Rawlinson
-  * *Clio*
+  * ~~*Clio*~~
   * *Euterpé*
   * *Thalia*
   * *Melpomene*
