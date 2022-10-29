@@ -266,6 +266,7 @@ Miscellaneous Reads
 * ~~*No Excuses: Existentialism and the Meaning of Life* by Robert C. Solomon and The Great Courses~~
 * ~~*The History of Science: 1700-1900* by Frederick Gregory and The Great Courses~~
 * ~~*The Age of Henry VIII* by Dale Hoak and The Great Courses~~
+* *The Secret History* by Donna Tartt
 
 Literature from Strand Quiz
 ---------------------------
