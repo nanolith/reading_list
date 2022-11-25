@@ -667,5 +667,5 @@ Harry Turtledove
 William Gibson
 --------------
 * ~~*Neuromancer* by William Gibson~~
-* *Count Zero* by William Gibson
+* ~~*Count Zero* by William Gibson~~
 * *Mona Lisa Overdrive* by William Gibson
