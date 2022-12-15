@@ -268,6 +268,7 @@ Miscellaneous Reads
 * ~~*The Age of Henry VIII* by Dale Hoak and The Great Courses~~
 * *The Secret History* by Donna Tartt
 * *Public Zen, Personal Zen: A Buddhist Introduction* by Peter D. Hershock
+* *Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character* by Richard Feynman
 
 Literature from Strand Quiz
 ---------------------------
