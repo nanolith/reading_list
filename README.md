@@ -606,7 +606,7 @@ Terry Mancour (Spellmonger Series)
 
 Terry Pratchett (Discworld / Rincewind Track)
 ---------------------------------------------
-* *The Colour of Magic* by Terry Pratchett
+* ~~*The Colour of Magic* by Terry Pratchett~~
 * *The Light Fantastic* by Terry Pratchett
 * *Sourcery* by Terry Pratchett
 * *Interesting Times* by Terry Pratchett
