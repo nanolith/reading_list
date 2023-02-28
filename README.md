@@ -66,7 +66,7 @@ Great Books of the Western World (1990s edition)
 * Volume 5: Herodotus, Thucydides
   * *The History* by Herodotus and George Rawlinson
   * ~~*Clio*~~
-  * *Euterpé*
+  * ~~*Euterpé*~~
   * *Thalia*
   * *Melpomene*
   * *Terpsichore*
