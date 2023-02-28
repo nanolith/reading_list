@@ -604,7 +604,7 @@ Terry Mancour (Spellmonger Series)
 * ~~*The Mad Mage of Sevendor* by Terry Mancour~~
 * *Shadowplay* by Terry Mancour
 * *Shadowheist* by Terry Mancour
-* *Marshal Arcane* by Terry Mancour (currently reading)
+* ~~*Marshal Arcane* by Terry Mancour~~
 
 Terry Pratchett (Discworld / Rincewind Track)
 ---------------------------------------------
