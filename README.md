@@ -535,7 +535,7 @@ Dennis E. Taylor
 * ~~*Heaven's River* by Dennis E. Taylor~~
 * ~~*Outland* by Dennis E. Taylor~~
 * *The Singularity Trap* by Dennis E. Taylor
-* *Earthside* by Dennis E. Taylor
+* ~~*Earthside* by Dennis E. Taylor~~
 * ~~*A Change of Plans* by Dennis E. Taylor~~
 * *Roadkill* by Dennis E. Taylor
 * ~~*Feedback* by Dennis E. Taylor~~
