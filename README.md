@@ -18,7 +18,7 @@ Great Books of the Western World (1990s edition)
 * ~~Volume 3: Homer~~
   * ~~*The Iliad* by Homer~~
   * ~~*The Odyssey* by Homer~~
-* Volume 4: Aeschylus, Sophocles, Euripides, Aristophanes
+* ~~Volume 4: Aeschylus, Sophocles, Euripides, Aristophanes~~
   * ~~*The Suppliant Maidens* by Aeschylus and Seth G. Benardete~~
   * ~~*The Persians* by Aeschylus and Seth G. Benardete~~
   * ~~*Seven Against Thebes* by Aeschylus and David Grene~~
