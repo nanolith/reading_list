@@ -67,7 +67,7 @@ Great Books of the Western World (1990s edition)
   * *The History* by Herodotus and George Rawlinson
   * ~~*Clio*~~
   * ~~*Euterpé*~~
-  * *Thalia*
+  * ~~*Thalia*~~
   * *Melpomene*
   * *Terpsichore*
   * *Erato*
