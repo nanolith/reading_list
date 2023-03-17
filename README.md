@@ -269,6 +269,7 @@ Miscellaneous Reads
 * *The Secret History* by Donna Tartt
 * ~~*Public Zen, Personal Zen: A Buddhist Introduction* by Peter D. Hershock~~
 * ~~*Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character* by Richard Feynman~~
+* *Spare* by Prince Harry, Duke of Sussex
 
 Literature from Strand Quiz
 ---------------------------
