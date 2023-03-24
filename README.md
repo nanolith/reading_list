@@ -68,7 +68,7 @@ Great Books of the Western World (1990s edition)
   * ~~*Clio*~~
   * ~~*Euterpé*~~
   * ~~*Thalia*~~
-  * *Melpomene*
+  * ~~*Melpomene*~~
   * *Terpsichore*
   * *Erato*
   * *Polymnia*
