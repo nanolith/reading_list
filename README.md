@@ -69,7 +69,7 @@ Great Books of the Western World (1990s edition)
   * ~~*Euterpé*~~
   * ~~*Thalia*~~
   * ~~*Melpomene*~~
-  * *Terpsichore*
+  * ~~*Terpsichore*~~
   * *Erato*
   * *Polymnia*
   * *Urania*
