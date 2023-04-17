@@ -270,7 +270,7 @@ Miscellaneous Reads
 * ~~*Public Zen, Personal Zen: A Buddhist Introduction* by Peter D. Hershock~~
 * ~~*Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character* by Richard Feynman~~
 * ~~*Spare* by Prince Harry, Duke of Sussex~~
-* *The Structure of Scientific Revolutions* by Thomas S. Kuhn
+* ~~*The Structure of Scientific Revolutions* by Thomas S. Kuhn~~
 
 Literature from Strand Quiz
 ---------------------------
