@@ -688,3 +688,9 @@ William Gibson
 * ~~*Count Zero* by William Gibson~~
 * *Mona Lisa Overdrive* by William Gibson
 * *The Difference Engine* by William Gibson and Bruce Sterling
+
+John Scalzi
+-----------
+* *The Collapsing Empire* by John Scalzi
+* *The Consuming Fire* by John Scalzi
+* *The Last Emperox* by John Scalzi
