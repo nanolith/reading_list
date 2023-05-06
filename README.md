@@ -691,6 +691,6 @@ William Gibson
 
 John Scalzi
 -----------
-* *The Collapsing Empire* by John Scalzi
+* ~~*The Collapsing Empire* by John Scalzi~~
 * *The Consuming Fire* by John Scalzi
 * *The Last Emperox* by John Scalzi
