@@ -584,6 +584,7 @@ B.V. Larson (Undying Mercenaries Series)
 * ~~*Ice World* by B.V. Larson~~
 * ~~*City World* by B.V. Larson~~
 * ~~*Sky World* by B.V. Larson~~
+* *Jungle World* by B.V. Larson
 
 Terry Mancour (Spellmonger Series)
 ----------------------------------
