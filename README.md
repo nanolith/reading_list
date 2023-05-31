@@ -624,7 +624,7 @@ Andy Weir
 
 * ~~*The Martian* by Andy Weir~~
 * ~~*Artemis* by Andy Weir~~
-* *Project Hail Mary* by Andy Weir
+* ~~*Project Hail Mary* by Andy Weir~~
 
 Thomas Harris
 -------------
