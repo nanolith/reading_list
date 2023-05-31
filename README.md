@@ -274,6 +274,7 @@ Miscellaneous Reads
 * *Martin Heidegger* by George Steiner
 * *Ninth House* by Leigh Bardugo
 * *The Song of Achilles* by Madeline Miller
+* *Sapiens* by Yuval Noah Harari
 
 Literature from Strand Quiz
 ---------------------------
