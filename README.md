@@ -638,7 +638,7 @@ Frank Herbert
 -------------
 
 * ~~*Dune* by Frank Herbert~~
-* *Dune Messiah* by Frank Herbert
+* ~~*Dune Messiah* by Frank Herbert~~
 * *Children of Dune* by Frank Herbert
 * *God Emperor of Dune* by Frank Herbert
 * *Heretics of Dune* by Frank Herbert
