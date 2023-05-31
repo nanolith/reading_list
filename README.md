@@ -273,6 +273,7 @@ Miscellaneous Reads
 * ~~*The Structure of Scientific Revolutions* by Thomas S. Kuhn~~
 * *Martin Heidegger* by George Steiner
 * *Ninth House* by Leigh Bardugo
+* *The Song of Achilles* by Madeline Miller
 
 Literature from Strand Quiz
 ---------------------------
