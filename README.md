@@ -257,7 +257,7 @@ Miscellaneous Reads
 * *Gone Girl* by Gillian Flynn
 * *Making History* by Stephen Fry
 * ~~*The Guncle* by Steven Rowley~~
-* *Fear and Loathing in Los Vegas* by Hunter S. Thompson
+* *Fear and Loathing in Las Vegas* by Hunter S. Thompson
 * ~~*Understanding Japan: A Cultural History* by Mark J. Ravina and The Great Courses~~
 * ~~*Emerson, Thoreau, and the Transcendentalist Movement* by Ashton Nichols and The Great Courses~~
 * ~~*The Art of War* by Andrew R. Wilson and The Great Courses~~
