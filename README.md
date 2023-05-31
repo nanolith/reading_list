@@ -612,6 +612,12 @@ Terry Mancour (Spellmonger Series)
 * *Shadowblade* by Terry Mancour
 * ~~*Marshal Arcane* by Terry Mancour~~
 
+Terry Pratchett (Discworld)
+---------------------------
+* ~~*The Colour of Magic* by Terry Pratchett~~
+* ~~*The Light Fantastic* by Terry Pratchett~~
+* *Equal Rites* by Terry Pratchett
+
 Terry Pratchett (Discworld / Rincewind Track)
 ---------------------------------------------
 * ~~*The Colour of Magic* by Terry Pratchett~~
