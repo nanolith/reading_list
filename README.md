@@ -272,6 +272,7 @@ Miscellaneous Reads
 * ~~*Spare* by Prince Harry, Duke of Sussex~~
 * ~~*The Structure of Scientific Revolutions* by Thomas S. Kuhn~~
 * *Martin Heidegger* by George Steiner
+* *Ninth House* by Leigh Bardugo
 
 Literature from Strand Quiz
 ---------------------------
