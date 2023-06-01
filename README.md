@@ -275,6 +275,7 @@ Miscellaneous Reads
 * *Ninth House* by Leigh Bardugo
 * *The Song of Achilles* by Madeline Miller
 * ~~*Sapiens* by Yuval Noah Harari~~
+* *Wakers* by Orson Scott Card
 
 Literature from Strand Quiz
 ---------------------------
