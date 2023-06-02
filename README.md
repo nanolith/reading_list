@@ -271,7 +271,7 @@ Miscellaneous Reads
 * ~~*Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character* by Richard Feynman~~
 * ~~*Spare* by Prince Harry, Duke of Sussex~~
 * ~~*The Structure of Scientific Revolutions* by Thomas S. Kuhn~~
-* *Martin Heidegger* by George Steiner
+* *Martin Heidegger* by George Steiner (currently reading)
 * *Ninth House* by Leigh Bardugo
 * *The Song of Achilles* by Madeline Miller
 * ~~*Sapiens* by Yuval Noah Harari~~
