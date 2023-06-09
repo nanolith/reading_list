@@ -276,7 +276,7 @@ Miscellaneous Reads
 * *The Song of Achilles* by Madeline Miller
 * ~~*Sapiens* by Yuval Noah Harari~~
 * ~~*Wakers* by Orson Scott Card~~
-* *The Clockwork Universe* by Edward Dolnick
+* ~~*The Clockwork Universe* by Edward Dolnick~~
 
 Literature from Strand Quiz
 ---------------------------
