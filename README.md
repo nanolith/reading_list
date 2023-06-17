@@ -699,7 +699,7 @@ William Gibson
 --------------
 * ~~*Neuromancer* by William Gibson~~
 * ~~*Count Zero* by William Gibson~~
-* *Mona Lisa Overdrive* by William Gibson (currently reading)
+* ~~*Mona Lisa Overdrive* by William Gibson~~
 * *The Difference Engine* by William Gibson and Bruce Sterling
 
 John Scalzi
