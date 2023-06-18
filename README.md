@@ -644,7 +644,7 @@ Thomas Harris
 
 * ~~*Red Dragon* by Thomas Harris~~
 * ~~*The Silence of the Lambs* by Thomas Harris~~
-* *Hannibal* by Thomas Harris
+* ~~*Hannibal* by Thomas Harris~~
 * *Hannibal Rising* by Thomas Harris
 
 Frank Herbert
