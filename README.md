@@ -707,3 +707,8 @@ John Scalzi
 * ~~*The Collapsing Empire* by John Scalzi~~
 * ~~*The Consuming Fire* by John Scalzi~~
 * ~~*The Last Emperox* by John Scalzi~~
+
+Stephen King
+------------
+* *11/22/63* by Stephen King
+* *The Stand* by Stephen King
