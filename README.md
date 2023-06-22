@@ -621,7 +621,7 @@ Terry Pratchett (Discworld)
 ---------------------------
 * ~~*The Colour of Magic* by Terry Pratchett~~
 * ~~*The Light Fantastic* by Terry Pratchett~~
-* *Equal Rites* by Terry Pratchett
+* ~~*Equal Rites* by Terry Pratchett~~
 
 Terry Pratchett (Discworld / Rincewind Track)
 ---------------------------------------------
