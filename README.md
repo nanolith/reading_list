@@ -273,7 +273,7 @@ Miscellaneous Reads
 * ~~*The Structure of Scientific Revolutions* by Thomas S. Kuhn~~
 * ~~*Martin Heidegger* by George Steiner~~
 * *Ninth House* by Leigh Bardugo
-* *The Song of Achilles* by Madeline Miller
+* ~~*The Song of Achilles* by Madeline Miller~~
 * ~~*Sapiens* by Yuval Noah Harari~~
 * ~~*Wakers* by Orson Scott Card~~
 * ~~*The Clockwork Universe* by Edward Dolnick~~
