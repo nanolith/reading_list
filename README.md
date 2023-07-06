@@ -412,6 +412,7 @@ Malcolm Gladwell
 
 * ~~*The Tipping Point* by Malcolm Gladwell~~
 * *Blink* by Malcolm Gladwell
+* ~~*Outliers* by Malcolm Gladwell~~
 
 Ken Kesey
 ---------
