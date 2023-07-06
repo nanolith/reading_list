@@ -407,6 +407,11 @@ Follow-Ups
 When I read an author I enjoy, I like to make a list of follow-up works.  Fully
 grokking an author takes more than one book.
 
+Malcolm Gladwell
+----------------
+
+* ~~*The Tipping Point* by Malcolm Gladwell~~
+
 Ken Kesey
 ---------
 
