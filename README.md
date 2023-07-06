@@ -416,6 +416,7 @@ Malcolm Gladwell
 * *What the Dog Saw* by Malcolm Gladwell
 * *David and Goliath* by Malcolm Gladwell
 * *Talking to Strangers* by Malcolm Gladwell
+* *The Bomber Mafia* by Malcolm Gladwell
 
 Ken Kesey
 ---------
