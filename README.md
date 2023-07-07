@@ -71,7 +71,7 @@ Great Books of the Western World (1990s edition)
   * ~~*Melpomene*~~
   * ~~*Terpsichore*~~
   * ~~*Erato*~~
-  * *Polymnia*
+  * ~~*Polymnia*~~
   * *Urania*
   * *Calliope*
   * *The History of the Peloponnesian War* by Thucydides and Richard Rawley
