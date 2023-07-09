@@ -73,7 +73,7 @@ Great Books of the Western World (1990s edition)
   * ~~*Erato*~~
   * ~~*Polymnia*~~
   * ~~*Urania*~~
-  * *Calliope*
+  * ~~*Calliope*~~
   * *The History of the Peloponnesian War* by Thucydides and Richard Rawley
   * *The First Book*
   * *The Second Book*
