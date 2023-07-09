@@ -305,7 +305,7 @@ to get reading.
 * *Naked Lunch* by William S. Burroughs
 * ~~*Slaughterhouse-Five* by Kurt Vonnegut~~
 * ~~*The Tipping Point* by Malcolm Gladwell~~
-* *The Histories* by Herodotus (read about half-way)
+* ~~*The Histories* by Herodotus~~
 * *The Poisonwood Bible* by Barbara Kingsolver
 * *A Wrinkle in Time* by Madeleine L'Engle
 * *Wise Blood* by Flannery O'Connor
