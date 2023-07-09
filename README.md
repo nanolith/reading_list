@@ -64,7 +64,7 @@ Great Books of the Western World (1990s edition)
   * ~~*The Assemblywomen* by Aristophanes and David Barrett~~
   * ~~*Wealth* by Aristophanes and Alan H. Sommerstein~~
 * Volume 5: Herodotus, Thucydides
-  * *The History* by Herodotus and George Rawlinson
+  * ~~*The History* by Herodotus and George Rawlinson~~
   * ~~*Clio*~~
   * ~~*Euterpé*~~
   * ~~*Thalia*~~
