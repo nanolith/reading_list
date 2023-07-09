@@ -346,7 +346,7 @@ From the lecture series of the same name.
 * *The Bhagavad Gita*
 * *The Art of War* by Sun Tzu
 * *The Analects* by Confucius
-* *Histories* by Herodotus
+* ~~*Histories* by Herodotus~~
 * *The Republic* by Plato
 * *Nicomachean Ethics* by Aristotle
 * *Metamorphoses* by Ovid
