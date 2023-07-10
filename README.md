@@ -411,7 +411,7 @@ Malcolm Gladwell
 ----------------
 
 * ~~*The Tipping Point* by Malcolm Gladwell~~
-* *Blink* by Malcolm Gladwell
+* ~~*Blink* by Malcolm Gladwell~~
 * ~~*Outliers* by Malcolm Gladwell~~
 * *What the Dog Saw* by Malcolm Gladwell
 * *David and Goliath* by Malcolm Gladwell
