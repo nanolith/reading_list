@@ -277,7 +277,7 @@ Miscellaneous Reads
 * ~~*Sapiens* by Yuval Noah Harari~~
 * ~~*Wakers* by Orson Scott Card~~
 * ~~*The Clockwork Universe* by Edward Dolnick~~
-* *Einstein: His Life and Universe* by Walter Isaacson
+* ~~*Einstein: His Life and Universe* by Walter Isaacson~~
 
 Literature from Strand Quiz
 ---------------------------
