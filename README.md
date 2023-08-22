@@ -725,7 +725,7 @@ John Scalzi
 Stephen King
 ------------
 * ~~*11/22/63* by Stephen King~~
-* *The Stand* by Stephen King (currently reading)
+* ~~*The Stand* by Stephen King (currently reading)~~
 * *The Dead Zone* by Stephen King
 * *Salem's Lot* by Stephen King
 * *The Shining* by Stephen King
