@@ -272,7 +272,7 @@ Miscellaneous Reads
 * ~~*Spare* by Prince Harry, Duke of Sussex~~
 * ~~*The Structure of Scientific Revolutions* by Thomas S. Kuhn~~
 * ~~*Martin Heidegger* by George Steiner~~
-* *Ninth House* by Leigh Bardugo
+* ~~*Ninth House* by Leigh Bardugo~~
 * ~~*The Song of Achilles* by Madeline Miller~~
 * ~~*Sapiens* by Yuval Noah Harari~~
 * ~~*Wakers* by Orson Scott Card~~
