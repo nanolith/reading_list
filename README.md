@@ -278,7 +278,7 @@ Miscellaneous Reads
 * ~~*Wakers* by Orson Scott Card~~
 * ~~*The Clockwork Universe* by Edward Dolnick~~
 * ~~*Einstein: His Life and Universe* by Walter Isaacson~~
-* *Hell's Angels: The Strange and Terrible Saga of the Outlaw Motorcycle Gangs* by Hunter S. Thompson
+* ~~*Hell's Angels: The Strange and Terrible Saga of the Outlaw Motorcycle Gangs* by Hunter S. Thompson~~
 
 Literature from Strand Quiz
 ---------------------------
