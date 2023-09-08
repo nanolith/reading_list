@@ -279,6 +279,7 @@ Miscellaneous Reads
 * ~~*The Clockwork Universe* by Edward Dolnick~~
 * ~~*Einstein: His Life and Universe* by Walter Isaacson~~
 * ~~*Hell's Angels: The Strange and Terrible Saga of the Outlaw Motorcycle Gangs* by Hunter S. Thompson~~
+* *The Whiskey Rebels* by David Liss
 
 Literature from Strand Quiz
 ---------------------------
