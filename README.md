@@ -630,6 +630,7 @@ Terry Mancour (Spellmonger Series)
 * *Shadowheist* by Terry Mancour
 * *Shadowblade* by Terry Mancour
 * ~~*Marshal Arcane* by Terry Mancour~~
+* *Preceptor* by Terry Mancour
 
 Terry Pratchett (Discworld)
 ---------------------------
