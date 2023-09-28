@@ -638,13 +638,13 @@ Terry Pratchett (Discworld)
 * ~~*The Light Fantastic* by Terry Pratchett~~
 * ~~*Equal Rites* by Terry Pratchett~~
 * ~~*Mort* by Terry Pratchett~~
-* *Sourcery* by Terry Pratchett
+* ~~*Sourcery* by Terry Pratchett~~
 
 Terry Pratchett (Discworld / Rincewind Track)
 ---------------------------------------------
 * ~~*The Colour of Magic* by Terry Pratchett~~
 * ~~*The Light Fantastic* by Terry Pratchett~~
-* *Sourcery* by Terry Pratchett
+* ~~*Sourcery* by Terry Pratchett~~
 * *Interesting Times* by Terry Pratchett
 * *The Last Continent* by Terry Pratchett
 * *Unseen Academicals* by Terry Pratchett
