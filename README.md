@@ -441,7 +441,7 @@ world war.  I'm curious to see how Vonnegut's other works stack up.
 Novels
 
 * *Player Piano* by Kurt Vonnegut
-* *The Sirens of Titan* by Kurt Vonnegut
+* ~~*The Sirens of Titan* by Kurt Vonnegut~~
 * *Mother Night* by Kurt Vonnegut
 * *Cat's Cradle* by Kurt Vonnegut
 * *God Bless You, Mr. Rosewater* by Kurt Vonnegut
