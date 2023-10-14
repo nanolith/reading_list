@@ -735,5 +735,5 @@ Stephen King
 * *Salem's Lot* by Stephen King
 * ~~*The Shining* by Stephen King~~
 * ~~*Doctor Sleep* by Stephen King~~
-* *It* by Stephen King
+* *It* by Stephen King (started reading)
 * *The Green Mile* by Stephen King
