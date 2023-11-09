@@ -738,3 +738,8 @@ Stephen King
 * ~~*Doctor Sleep* by Stephen King~~
 * ~~*It* by Stephen King~~
 * *The Green Mile* by Stephen King
+
+Leigh Bardugo
+-------------
+* ~~Ninth House by Leigh Bardugo~~
+* Hell Bent by Leigh Bardugo
