@@ -727,6 +727,7 @@ John Scalzi
 * ~~*Lock In* by John Scalzi~~
 * *Head On* by John Scalzi
 * ~~*Starter Villain* by John Scalzi~~
+* *Redshirts* by John Scalzi
 
 Stephen King
 ------------
