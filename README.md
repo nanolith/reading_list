@@ -744,4 +744,4 @@ Stephen King
 Leigh Bardugo
 -------------
 * ~~Ninth House by Leigh Bardugo~~
-* Hell Bent by Leigh Bardugo
+* ~~Hell Bent by Leigh Bardugo~~
