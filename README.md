@@ -741,7 +741,7 @@ Stephen King
 * ~~*Doctor Sleep* by Stephen King~~
 * ~~*It* by Stephen King~~
 * *The Green Mile* by Stephen King
-* *Pet Sematary* by Stephen King
+* ~~*Pet Sematary* by Stephen King~~
 
 Leigh Bardugo
 -------------
