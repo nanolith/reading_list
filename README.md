@@ -730,6 +730,7 @@ John Scalzi
 * *Head On* by John Scalzi
 * ~~*Starter Villain* by John Scalzi~~
 * ~~*Redshirts* by John Scalzi~~
+* *The Kaiju Preservation Society* by John Scalzi
 
 Stephen King
 ------------
