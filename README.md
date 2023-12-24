@@ -736,7 +736,7 @@ Stephen King
 ------------
 * ~~*11/22/63* by Stephen King~~
 * ~~*The Stand* by Stephen King~~
-* *The Dead Zone* by Stephen King
+* ~~*The Dead Zone* by Stephen King~~
 * *Salem's Lot* by Stephen King
 * ~~*The Shining* by Stephen King~~
 * ~~*Doctor Sleep* by Stephen King~~
