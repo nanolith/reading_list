@@ -748,6 +748,7 @@ Stephen King
 Casualfarmer
 ------------
 * *Beware of Chicken: A Xianxia Cultivation Novel: Book 1* by Casualfarmer
+* *Beware of Chicken 2: A Xianxia Cultivation Novel: Book 2* by Casualfarmer
 
 Leigh Bardugo
 -------------
