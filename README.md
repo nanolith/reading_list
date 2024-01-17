@@ -752,7 +752,7 @@ Casualfarmer
 
 Benjamin Kerei
 --------------
-* *Oh, Great! I Was Reincarnated as a Farmer* by Benjamin Kerei
+* ~~*Oh, Great! I Was Reincarnated as a Farmer* by Benjamin Kerei~~
 * *Oh, Great! I Discovered How to Cultivate a Farmer in 52 Easy Steps: Unorthodox Farming, Book 2* by Benjamin Kerei
 
 Leigh Bardugo
