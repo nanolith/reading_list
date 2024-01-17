@@ -745,6 +745,10 @@ Stephen King
 * ~~*Pet Sematary* by Stephen King~~
 * ~~*Fairy Tale* by Stephen King~~
 
+Casualfarmer
+------------
+* *Beware of Chicken: A Xianxia Cultivation Novel: Book 1* by Casualfarmer
+
 Leigh Bardugo
 -------------
 * ~~Ninth House by Leigh Bardugo~~
