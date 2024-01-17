@@ -750,6 +750,10 @@ Casualfarmer
 * ~~*Beware of Chicken: A Xianxia Cultivation Novel: Book 1* by Casualfarmer~~
 * *Beware of Chicken 2: A Xianxia Cultivation Novel: Book 2* by Casualfarmer
 
+Benjamin Kerei
+--------------
+* *Oh, Great! I Was Reincarnated as a Farmer* by Benjamin Kerei
+
 Leigh Bardugo
 -------------
 * ~~Ninth House by Leigh Bardugo~~
