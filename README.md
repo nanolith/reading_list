@@ -281,7 +281,7 @@ Miscellaneous Reads
 * ~~*Hell's Angels: The Strange and Terrible Saga of the Outlaw Motorcycle Gangs* by Hunter S. Thompson~~
 * ~~*The Whiskey Rebels* by David Liss~~
 * *The Coffee Trader* by David Liss
-* *The Forgotten: The Complete Trilogy* by M. R. Forbes
+* ~~*The Forgotten: The Complete Trilogy* by M. R. Forbes~~
 
 Literature from Strand Quiz
 ---------------------------
