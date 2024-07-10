@@ -734,6 +734,7 @@ John Scalzi
 * ~~*Starter Villain* by John Scalzi~~
 * ~~*Redshirts* by John Scalzi~~
 * ~~*The Kaiju Preservation Society* by John Scalzi~~
+* *Old Man's War* by John Scalzi
 
 Stephen King
 ------------
