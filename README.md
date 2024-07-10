@@ -736,6 +736,7 @@ John Scalzi
 * ~~*The Kaiju Preservation Society* by John Scalzi~~
 * *Starter Villain* by John Scalzi
 * *Old Man's War* by John Scalzi
+* *The Ghost Brigades* by John Scalzi
 
 Stephen King
 ------------
