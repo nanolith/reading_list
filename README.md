@@ -734,7 +734,7 @@ John Scalzi
 * ~~*Starter Villain* by John Scalzi~~
 * ~~*Redshirts* by John Scalzi~~
 * ~~*The Kaiju Preservation Society* by John Scalzi~~
-* *Starter Villain* by John Scalzi
+* ~~*Starter Villain* by John Scalzi~~
 * *Old Man's War* by John Scalzi
 * *The Ghost Brigades* by John Scalzi
 * *The Human Division* by John Scalzi
