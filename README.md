@@ -737,6 +737,7 @@ John Scalzi
 * *Starter Villain* by John Scalzi
 * *Old Man's War* by John Scalzi
 * *The Ghost Brigades* by John Scalzi
+* *The Human Division* by John Scalzi
 
 Stephen King
 ------------
