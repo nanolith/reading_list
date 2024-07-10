@@ -737,7 +737,7 @@ John Scalzi
 * ~~*Starter Villain* by John Scalzi~~
 * ~~*Old Man's War* by John Scalzi~~
 * ~~*The Ghost Brigades* by John Scalzi~~
-* *The Human Division* by John Scalzi
+* ~~*The Human Division* by John Scalzi~~
 * *The Last Colony* by John Scalzi
 * *The End of All Things* by John Scalzi
 * *Zoe's Tale* by John Scalzi
