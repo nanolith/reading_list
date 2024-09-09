@@ -761,7 +761,7 @@ Casualfarmer
 * ~~*Beware of Chicken: A Xianxia Cultivation Novel: Book 1* by Casualfarmer~~
 * ~~*Beware of Chicken 2: A Xianxia Cultivation Novel: Book 2* by Casualfarmer~~
 * ~~*Beware of Chicken 3: A Xianxia Cultivation Novel: Book 3* by Casualfarmer~~
-* *Beware of Chicken 4: A Xianxia Cultivation Novel: Book 3* by Casualfarmer
+* *Beware of Chicken 4: A Xianxia Cultivation Novel: Book 4* by Casualfarmer
 
 Benjamin Kerei
 --------------
