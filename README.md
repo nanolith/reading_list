@@ -611,6 +611,7 @@ B.V. Larson (Undying Mercenaries Series)
 * ~~*Jungle World* by B.V. Larson~~
 * ~~*Crystal World* by B.V. Larson~~
 * ~~*Throne World* by B.V. Larson~~
+* *Rebel World* by B.V. Larson
 
 Terry Mancour (Spellmonger Series)
 ----------------------------------
