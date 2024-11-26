@@ -766,6 +766,7 @@ Stephen King
 * *Danse Macabre* by Stephen King
 * *Everything's Eventual* by Stephen King
 * *Hearts in Atlantis* by Stephen King
+* *The Institute* by Stephen King
 
 Casualfarmer
 ------------
