@@ -764,6 +764,7 @@ Stephen King
 * ~~*Fairy Tale* by Stephen King~~
 * ~~*On Writing* by Stephen King~~
 * *Danse Macabre* by Stephen King
+* *Everything's Eventual* by Stephen King
 
 Casualfarmer
 ------------
