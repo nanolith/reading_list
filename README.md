@@ -422,6 +422,7 @@ Malcolm Gladwell
 * *David and Goliath* by Malcolm Gladwell
 * ~~*Talking to Strangers* by Malcolm Gladwell~~
 * ~~*The Bomber Mafia* by Malcolm Gladwell~~
+* *Revenge of the Tipping Point* by Malcolm Gladwell
 
 Ken Kesey
 ---------
