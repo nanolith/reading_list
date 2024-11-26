@@ -763,6 +763,7 @@ Stephen King
 * ~~*Pet Sematary* by Stephen King~~
 * ~~*Fairy Tale* by Stephen King~~
 * ~~*On Writing* by Stephen King~~
+* *Danse Macabre* by Stephen King
 
 Casualfarmer
 ------------
