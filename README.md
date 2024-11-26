@@ -771,6 +771,7 @@ Stephen King
 
 Joe Hill
 --------
+* *NOS4A2* by Joe Hill
 
 Casualfarmer
 ------------
