@@ -769,6 +769,9 @@ Stephen King
 * ~~*The Institute* by Stephen King~~
 * ~~*You Like It Darker* by Stephen King~~
 
+Joe Hill
+--------
+
 Casualfarmer
 ------------
 * ~~*Beware of Chicken: A Xianxia Cultivation Novel: Book 1* by Casualfarmer~~
