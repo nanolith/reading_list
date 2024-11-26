@@ -771,7 +771,7 @@ Stephen King
 
 Joe Hill
 --------
-* *NOS4A2* by Joe Hill
+* ~~*NOS4A2* by Joe Hill~~
 * ~~*The Fireman* by Joe Hill~~
 
 Casualfarmer
