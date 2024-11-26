@@ -639,6 +639,7 @@ Terry Mancour (Spellmonger Series)
 * *Shadowblade* by Terry Mancour
 * ~~*Marshal Arcane* by Terry Mancour~~
 * ~~*Preceptor* by Terry Mancour~~
+* *Practical Adept* by Terry Mancour
 
 Terry Pratchett (Discworld)
 ---------------------------
