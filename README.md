@@ -700,7 +700,7 @@ Scott Meyer
 * *Out of Spite, Out of Mind* by Scott Meyer
 * *The Vexed Generation* by Scott Meyer
 * ~~*Run Program* by Scott Meyer~~
-* *Brute Force* by Scott Meyer
+* ~~*Brute Force* by Scott Meyer~~
 
 John le Carré
 -------------
