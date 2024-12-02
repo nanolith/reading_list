@@ -282,6 +282,7 @@ Miscellaneous Reads
 * ~~*The Whiskey Rebels* by David Liss~~
 * ~~*The Coffee Trader* by David Liss~~
 * ~~*The Forgotten: The Complete Trilogy* by M. R. Forbes~~
+* *Eruption* by Michael Crichton and James Patterson
 
 Literature from Strand Quiz
 ---------------------------
