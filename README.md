@@ -551,6 +551,7 @@ Neal Stephenson
 * ~~*The Cobweb* by Neal Stephenson~~
 * ~~*Zodiac* by Neal Stephenson~~
 * ~~*Interface* by Neal Stephenson and J. Frederick George~~
+* *Polostan* by Neal Stephenson
 
 Dennis E. Taylor
 ----------------
