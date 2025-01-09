@@ -554,6 +554,7 @@ Neal Stephenson
 * *Polostan* by Neal Stephenson
 * *Some Remarks* by Neal Stephenson
 * *Termination Shock* by Neal Stephenson
+* *The Cobweb* by Neal Stephenson
 
 Dennis E. Taylor
 ----------------
