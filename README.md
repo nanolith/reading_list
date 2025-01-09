@@ -552,7 +552,7 @@ Neal Stephenson
 * ~~*Zodiac* by Neal Stephenson~~
 * ~~*Interface* by Neal Stephenson and J. Frederick George~~
 * *Polostan* by Neal Stephenson
-* *Some Remarks* by Neal Stephenson
+* ~~*Some Remarks* by Neal Stephenson~~
 * *Termination Shock* by Neal Stephenson
 * *The Cobweb* by Neal Stephenson
 
