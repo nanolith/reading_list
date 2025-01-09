@@ -552,6 +552,7 @@ Neal Stephenson
 * ~~*Zodiac* by Neal Stephenson~~
 * ~~*Interface* by Neal Stephenson and J. Frederick George~~
 * *Polostan* by Neal Stephenson
+* *Some Remarks* by Neal Stephenson
 
 Dennis E. Taylor
 ----------------
