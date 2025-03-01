@@ -584,7 +584,7 @@ John Bierce
 * ~~*The Last Echo of the Lord of Bells* by John Bierce~~
 * ~~Gram of Clan Castis by John Bierce~~
 * *The Gorgon Incident and Other Stories* by John Bierce
-* *The City That Would Eat the World* by John Bierce
+* ~~*The City That Would Eat the World* by John Bierce~~
 
 Ernest Cline
 ------------
