@@ -797,3 +797,7 @@ Leigh Bardugo
 * ~~Ninth House by Leigh Bardugo~~
 * ~~Hell Bent by Leigh Bardugo~~
 * *The Familiar* by Leigh Bardugo
+
+Robert Jordan
+-------------
+* *The Eye of the World* by Robert Jordan
