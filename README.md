@@ -800,4 +800,4 @@ Leigh Bardugo
 
 Robert Jordan
 -------------
-* *The Eye of the World* by Robert Jordan
+* ~~*The Eye of the World* by Robert Jordan~~
