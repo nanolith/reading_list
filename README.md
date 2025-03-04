@@ -801,3 +801,4 @@ Leigh Bardugo
 Robert Jordan
 -------------
 * ~~*The Eye of the World* by Robert Jordan~~
+* *The Great Hunt* by Robert Jordan
