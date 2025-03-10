@@ -771,7 +771,7 @@ Stephen King
 * ~~*On Writing* by Stephen King~~
 * *Danse Macabre* by Stephen King
 * *Everything's Eventual* by Stephen King
-* *Hearts in Atlantis* by Stephen King
+* ~~*Hearts in Atlantis* by Stephen King~~
 * ~~*The Institute* by Stephen King~~
 * ~~*You Like It Darker* by Stephen King~~
 
