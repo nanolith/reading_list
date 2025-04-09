@@ -708,7 +708,7 @@ Scott Meyer
 * *The Vexed Generation* by Scott Meyer
 * ~~*Run Program* by Scott Meyer~~
 * ~~*Brute Force* by Scott Meyer~~
-* *That's Not Right* by Scott Meyer
+* ~~*That's Not Right* by Scott Meyer~~
 
 John le Carré
 -------------
