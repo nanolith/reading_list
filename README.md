@@ -758,6 +758,7 @@ John Scalzi
 * ~~*The End of All Things* by John Scalzi~~
 * ~~*Zoe's Tale* by John Scalzi~~
 * ~~*The Android's Dream* by John Scalzi~~
+* *Agent to the Stars* by John Scalzi
 
 Stephen King
 ------------
