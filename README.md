@@ -434,6 +434,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Among the Dead* by Edward Bryant
 * *The Loch* by Janet Caird
 * *Demons by Daylight* by Ramsey Campbell
+* *The Doll Who Ate His Mother* by Ramsey Campbell (*)
 
 Follow-Ups
 ----------
