@@ -465,6 +465,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Survivor* by James Herbert
 * *Falling Angel* by William Hjortsberg (*)
 * *The Haunting of Hill House* by Shirley Jackson (*)
+* *The Lottery and Others* by Shirley Jackson (*)
 
 Follow-Ups
 ----------
