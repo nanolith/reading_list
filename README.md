@@ -466,6 +466,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Falling Angel* by William Hjortsberg (*)
 * *The Haunting of Hill House* by Shirley Jackson (*)
 * *The Lottery and Others* by Shirley Jackson (*)
+* *The Sundial* by Shirley Jackson
 
 Follow-Ups
 ----------
