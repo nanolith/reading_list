@@ -472,6 +472,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Tomato Caine* by Nigel Kneale
 * *Dr. Rat* by William Kotzwinkle (*)
 * *The Painted Bird* by Jerry Kozinski (*)
+* *Our Lady of Darkness* by Fritz Leiber (*)
 
 Follow-Ups
 ----------
