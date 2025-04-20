@@ -442,6 +442,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Kiss Kiss* by Roald Dahl (*)
 * *Someone Like You* by Roald Dahl (*)
 * *The Black Castle* by Les Daniels
+* *The Thomas Covenant Trilogy (3 vols.)* by Stephen R. Donaldson
 
 Follow-Ups
 ----------
