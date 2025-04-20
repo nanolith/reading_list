@@ -425,6 +425,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Hunger* by Charles Beaumont (*)
 * *The Magic Man* by Charles Beaumont
 * *Pleasant Dreams* by Robert Bloch (*)
+* *Psycho* by Robert Bloch (*)
 
 Follow-Ups
 ----------
