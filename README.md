@@ -447,6 +447,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Deathbird Stories* by Harlan Ellison (*)
 * *Strange Wine* by Harlan Ellison (*)
 * *All Heads Turn When the Hunt Goes By* by John Farris
+* *The Ghosts of Manacle* by Charles G. Finney
 
 Follow-Ups
 ----------
