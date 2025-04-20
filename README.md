@@ -437,6 +437,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Doll Who Ate His Mother* by Ramsey Campbell (*)
 * *The Parasite* by Ramsey Campbell (*)
 * *The Vampire Tapestry* by Suzy McKee Charnas
+* *The End of the Game and Other Stories* by Julio Cortazar
 
 Follow-Ups
 ----------
