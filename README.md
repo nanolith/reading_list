@@ -440,6 +440,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The End of the Game and Other Stories* by Julio Cortazar
 * *A Feast of Snakes* by Harry Crews
 * *Kiss Kiss* by Roald Dahl (*)
+* *Someone Like You* by Roald Dahl (*)
 
 Follow-Ups
 ----------
