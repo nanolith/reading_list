@@ -448,6 +448,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Strange Wine* by Harlan Ellison (*)
 * *All Heads Turn When the Hunt Goes By* by John Farris
 * *The Ghosts of Manacle* by Charles G. Finney
+* *The Body Snatchers* by Jack Finney
 
 Follow-Ups
 ----------
