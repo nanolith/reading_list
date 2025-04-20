@@ -471,6 +471,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Princess of All Lands* by Russell Kirk
 * *Tomato Caine* by Nigel Kneale
 * *Dr. Rat* by William Kotzwinkle (*)
+* *The Painted Bird* by Jerry Kozinski (*)
 
 Follow-Ups
 ----------
