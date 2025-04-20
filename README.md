@@ -478,6 +478,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Rosemary's Baby* by Ira Levin (*)
 * *The Stepford Wives* by Ira Levin
 * *The Girl, the Gold Watch, and Everything* by John D. MacDonald
+* *The Magic Barrel* by Bernard Malamud
 
 Follow-Ups
 ----------
