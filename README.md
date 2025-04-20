@@ -419,6 +419,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Walker through Walls* by Marcel Ayme
 * *Harriet Said* by Beryl Bainbridge
 * *Concrete Island* by J. G. Ballard (*)
+* *High Rise* by J. G. Ballard
 
 Follow-Ups
 ----------
