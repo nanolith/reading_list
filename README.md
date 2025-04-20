@@ -461,6 +461,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Keeper of the Children* by William H. Hallahan
 * *The Search for Joseph Tully* by William H. Hallahan
 * *The Fog* by James Herbert
+* *The Spear* by James Herbert (*)
 
 Follow-Ups
 ----------
