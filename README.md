@@ -435,6 +435,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Loch* by Janet Caird
 * *Demons by Daylight* by Ramsey Campbell
 * *The Doll Who Ate His Mother* by Ramsey Campbell (*)
+* *The Parasite* by Ramsey Campbell (*)
 
 Follow-Ups
 ----------
