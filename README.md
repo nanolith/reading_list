@@ -446,6 +446,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Don't Look Now* by Daphne Du Maurier
 * *Deathbird Stories* by Harlan Ellison (*)
 * *Strange Wine* by Harlan Ellison (*)
+* *All Heads Turn When the Hunt Goes By* by John Farris
 
 Follow-Ups
 ----------
