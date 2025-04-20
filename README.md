@@ -451,6 +451,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Body Snatchers* by Jack Finney (*)
 * *I Love Galesberg in the Springtime* by Jack Finney
 * *The Third Level* by Jack Finney (*)
+* *Time and Again* by Jack Finney (*)
 
 Follow-Ups
 ----------
