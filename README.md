@@ -475,6 +475,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Our Lady of Darkness* by Fritz Leiber (*)
 * *The Lathe of Heaven* by Ursula LeGuin (*)
 * *Orsinian Tales* by Ursula LeGuin
+* *Rosemary's Baby* by Ira Levin (*)
 
 Follow-Ups
 ----------
