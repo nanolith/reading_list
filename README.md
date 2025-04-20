@@ -470,6 +470,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Men Without Bones* by Gerald Kersh (*)
 * *The Princess of All Lands* by Russell Kirk
 * *Tomato Caine* by Nigel Kneale
+* *Dr. Rat* by William Kotzwinkle (*)
 
 Follow-Ups
 ----------
