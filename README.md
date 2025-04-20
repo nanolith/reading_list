@@ -411,7 +411,8 @@ Based on [this YouTube Video][bookpilled-15-best-sci-fi-books-updated]. I seemed
 Stephen King's Danse Macabre Reading List
 -----------------------------------------
 
-The following list of books is from Stephen King's *Danse Macabre*.
+The following list of books is from Stephen King's *Danse Macabre*. Books with
+asterisks are those that Stephen King felt were especially important.
 
 * *The Plague Dogs* by Richard Adams
 * *Watership Down* by Richard Adams (*)
