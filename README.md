@@ -459,6 +459,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Sound of Midnight* by Charles L. Grant (*)
 * *Twelve Tales of Horror* by Davis Grubb (*)
 * *The Keeper of the Children* by William H. Hallahan
+* *The Search for Joseph Tully* by William H. Hallahan
 
 Follow-Ups
 ----------
