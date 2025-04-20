@@ -426,7 +426,8 @@ asterisks are those that Stephen King felt were especially important.
 * *The Magic Man* by Charles Beaumont
 * *Pleasant Dreams* by Robert Bloch (*)
 * *Psycho* by Robert Bloch (*)
-* *Dandelion Wine" by Ray Bradbury
+* *Dandelion Wine* by Ray Bradbury
+* *Something Wicked This Way Comes* by Ray Bradbury (*)
 
 Follow-Ups
 ----------
