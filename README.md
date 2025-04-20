@@ -414,6 +414,7 @@ Stephen King's Danse Macabre Reading List
 The following list of books is from Stephen King's *Danse Macabre*.
 
 * *The Plague Dogs* by Richard Adams
+* *Watership Down* by Richard Adams (*)
 
 Follow-Ups
 ----------
