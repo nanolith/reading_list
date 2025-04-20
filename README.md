@@ -463,6 +463,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Fog* by James Herbert
 * *The Spear* by James Herbert (*)
 * *The Survivor* by James Herbert
+* *Falling Angel* by William Hjortsberg (*)
 
 Follow-Ups
 ----------
