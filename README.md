@@ -422,6 +422,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Harriet Said* by Beryl Bainbridge
 * *Concrete Island* by J. G. Ballard (*)
 * *High Rise* by J. G. Ballard
+* *Hunger* by Charles Beaumont (*)
 
 Follow-Ups
 ----------
