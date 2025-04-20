@@ -443,6 +443,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Someone Like You* by Roald Dahl (*)
 * *The Black Castle* by Les Daniels
 * *The Thomas Covenant Trilogy (3 vols.)* by Stephen R. Donaldson
+* *Don't Look Now* by Daphne Du Maurier
 
 Follow-Ups
 ----------
