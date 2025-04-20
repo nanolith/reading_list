@@ -467,6 +467,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Haunting of Hill House* by Shirley Jackson (*)
 * *The Lottery and Others* by Shirley Jackson (*)
 * *The Sundial* by Shirley Jackson
+* *Men Without Bones* by Gerald Kersh (*)
 
 Follow-Ups
 ----------
