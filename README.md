@@ -432,6 +432,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Shapes of Midnight* by Joseph Payne Brennan (*)
 * *Nightmares and Geezenstacks* by Frederic Brown (*)
 * *Among the Dead* by Edward Bryant
+* *The Loch* by Janet Caird
 
 Follow-Ups
 ----------
