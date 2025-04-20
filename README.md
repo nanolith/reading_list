@@ -455,6 +455,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Lord of the Flies* by William Golding (*)
 * *Amphigorey* by Edward Gorey
 * *Amphigorey Too* by Edward Gorey
+* *The Hour of the Oxrun Dead* by Charles L. Grant
 
 Follow-Ups
 ----------
