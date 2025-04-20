@@ -474,6 +474,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Painted Bird* by Jerry Kozinski (*)
 * *Our Lady of Darkness* by Fritz Leiber (*)
 * *The Lathe of Heaven* by Ursula LeGuin (*)
+* *Orsinian Tales* by Ursula LeGuin
 
 Follow-Ups
 ----------
