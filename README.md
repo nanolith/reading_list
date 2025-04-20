@@ -418,6 +418,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Watership Down* by Richard Adams (*)
 * *The Walker through Walls* by Marcel Ayme
 * *Harriet Said* by Beryl Bainbridge
+* *Concrete Island* by J. G. Ballard (*)
 
 Follow-Ups
 ----------
