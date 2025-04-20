@@ -438,6 +438,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Parasite* by Ramsey Campbell (*)
 * *The Vampire Tapestry* by Suzy McKee Charnas
 * *The End of the Game and Other Stories* by Julio Cortazar
+* *A Feast of Snakes* by Harry Crews
 
 Follow-Ups
 ----------
