@@ -428,6 +428,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Psycho* by Robert Bloch (*)
 * *Dandelion Wine* by Ray Bradbury
 * *Something Wicked This Way Comes* by Ray Bradbury (*)
+* *The October Country* by Ray Bradbury
 
 Follow-Ups
 ----------
