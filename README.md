@@ -436,6 +436,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Demons by Daylight* by Ramsey Campbell
 * *The Doll Who Ate His Mother* by Ramsey Campbell (*)
 * *The Parasite* by Ramsey Campbell (*)
+* *The Vampire Tapestry* by Suzy McKee Charnas
 
 Follow-Ups
 ----------
