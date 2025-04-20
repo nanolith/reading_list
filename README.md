@@ -441,6 +441,7 @@ asterisks are those that Stephen King felt were especially important.
 * *A Feast of Snakes* by Harry Crews
 * *Kiss Kiss* by Roald Dahl (*)
 * *Someone Like You* by Roald Dahl (*)
+* *The Black Castle* by Les Daniels
 
 Follow-Ups
 ----------
