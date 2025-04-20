@@ -462,6 +462,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Search for Joseph Tully* by William H. Hallahan
 * *The Fog* by James Herbert
 * *The Spear* by James Herbert (*)
+* *The Survivor* by James Herbert
 
 Follow-Ups
 ----------
