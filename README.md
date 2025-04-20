@@ -423,6 +423,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Concrete Island* by J. G. Ballard (*)
 * *High Rise* by J. G. Ballard
 * *Hunger* by Charles Beaumont (*)
+* *The Magic Man* by Charles Beaumont
 
 Follow-Ups
 ----------
