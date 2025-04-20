@@ -431,6 +431,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The October Country* by Ray Bradbury
 * *The Shapes of Midnight* by Joseph Payne Brennan (*)
 * *Nightmares and Geezenstacks* by Frederic Brown (*)
+* *Among the Dead* by Edward Bryant
 
 Follow-Ups
 ----------
