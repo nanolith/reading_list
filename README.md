@@ -456,6 +456,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Amphigorey* by Edward Gorey
 * *Amphigorey Too* by Edward Gorey
 * *The Hour of the Oxrun Dead* by Charles L. Grant
+* *The Sound of Midnight* by Charles L. Grant (*)
 
 Follow-Ups
 ----------
