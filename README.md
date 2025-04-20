@@ -424,6 +424,7 @@ asterisks are those that Stephen King felt were especially important.
 * *High Rise* by J. G. Ballard
 * *Hunger* by Charles Beaumont (*)
 * *The Magic Man* by Charles Beaumont
+* *Pleasant Dreams* by Robert Bloch (*)
 
 Follow-Ups
 ----------
