@@ -433,6 +433,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Nightmares and Geezenstacks* by Frederic Brown (*)
 * *Among the Dead* by Edward Bryant
 * *The Loch* by Janet Caird
+* *Demons by Daylight* by Ramsey Campbell
 
 Follow-Ups
 ----------
