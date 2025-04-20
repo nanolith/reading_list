@@ -452,6 +452,7 @@ asterisks are those that Stephen King felt were especially important.
 * *I Love Galesberg in the Springtime* by Jack Finney
 * *The Third Level* by Jack Finney (*)
 * *Time and Again* by Jack Finney (*)
+* *The Lord of the Flies* by William Golding (*)
 
 Follow-Ups
 ----------
