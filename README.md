@@ -458,6 +458,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Hour of the Oxrun Dead* by Charles L. Grant
 * *The Sound of Midnight* by Charles L. Grant (*)
 * *Twelve Tales of Horror* by Davis Grubb (*)
+* *The Keeper of the Children* by William H. Hallahan
 
 Follow-Ups
 ----------
