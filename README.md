@@ -408,6 +408,13 @@ Based on [this YouTube Video][bookpilled-15-best-sci-fi-books-updated]. I seemed
 14. ~~*The Mote in God's Eye* by Larry Niven and Jerry Pournelle~~
 15. ~~*Dune* by Frank Herbert~~
 
+Stephen King's Danse Macabre Reading List
+-----------------------------------------
+
+The following list of books is from Stephen King's *Danse Macabre*.
+
+* *The Plague Dogs* by Richard Adams
+
 Follow-Ups
 ----------
 
