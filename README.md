@@ -473,6 +473,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Dr. Rat* by William Kotzwinkle (*)
 * *The Painted Bird* by Jerry Kozinski (*)
 * *Our Lady of Darkness* by Fritz Leiber (*)
+* *The Lathe of Heaven* by Ursula LeGuin (*)
 
 Follow-Ups
 ----------
