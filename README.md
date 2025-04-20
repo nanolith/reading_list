@@ -444,6 +444,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Black Castle* by Les Daniels
 * *The Thomas Covenant Trilogy (3 vols.)* by Stephen R. Donaldson
 * *Don't Look Now* by Daphne Du Maurier
+* *Deathbird Stories* by Harlan Ellison (*)
 
 Follow-Ups
 ----------
