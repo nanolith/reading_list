@@ -417,6 +417,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Plague Dogs* by Richard Adams
 * *Watership Down* by Richard Adams (*)
 * *The Walker through Walls* by Marcel Ayme
+* *Harriet Said* by Beryl Bainbridge
 
 Follow-Ups
 ----------
