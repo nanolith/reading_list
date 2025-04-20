@@ -454,6 +454,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Time and Again* by Jack Finney (*)
 * *The Lord of the Flies* by William Golding (*)
 * *Amphigorey* by Edward Gorey
+* *Amphigorey Too* by Edward Gorey
 
 Follow-Ups
 ----------
