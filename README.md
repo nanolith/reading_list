@@ -469,6 +469,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Sundial* by Shirley Jackson
 * *Men Without Bones* by Gerald Kersh (*)
 * *The Princess of All Lands* by Russell Kirk
+* *Tomato Caine* by Nigel Kneale
 
 Follow-Ups
 ----------
