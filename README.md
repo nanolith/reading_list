@@ -439,6 +439,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Vampire Tapestry* by Suzy McKee Charnas
 * *The End of the Game and Other Stories* by Julio Cortazar
 * *A Feast of Snakes* by Harry Crews
+* *Kiss Kiss* by Roald Dahl (*)
 
 Follow-Ups
 ----------
