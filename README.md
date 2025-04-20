@@ -476,6 +476,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Lathe of Heaven* by Ursula LeGuin (*)
 * *Orsinian Tales* by Ursula LeGuin
 * *Rosemary's Baby* by Ira Levin (*)
+* *The Stepford Wives* by Ira Levin
 
 Follow-Ups
 ----------
