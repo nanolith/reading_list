@@ -430,6 +430,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Something Wicked This Way Comes* by Ray Bradbury (*)
 * *The October Country* by Ray Bradbury
 * *The Shapes of Midnight* by Joseph Payne Brennan (*)
+* *Nightmares and Geezenstacks* by Frederic Brown (*)
 
 Follow-Ups
 ----------
