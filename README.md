@@ -416,6 +416,7 @@ asterisks are those that Stephen King felt were especially important.
 
 * *The Plague Dogs* by Richard Adams
 * *Cold Hand in Mine* by Robert Aickman
+* *Painted Devils* by Robert Aickman
 * *Watership Down* by Richard Adams (*)
 * *The Walker through Walls* by Marcel Ayme
 * *Harriet Said* by Beryl Bainbridge
