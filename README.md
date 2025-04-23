@@ -283,7 +283,7 @@ Miscellaneous Reads
 * ~~*The Coffee Trader* by David Liss~~
 * ~~*The Forgotten: The Complete Trilogy* by M. R. Forbes~~
 * ~~*Eruption* by Michael Crichton and James Patterson~~
-* *Savage Harvest* by Carl Hoffman
+* ~~*Savage Harvest* by Carl Hoffman~~
 
 Literature from Strand Quiz
 ---------------------------
