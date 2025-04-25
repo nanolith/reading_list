@@ -494,6 +494,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Unicorn* by Iris Murdoch
 * *Nightside* by Joyce Carol Oates (*)
 * *A Good Man Is Hard to Find* by Flannery O'Connor (*)
+* *The Gormenghast Trilogy (3 volumes)* by Mervyn Peake
 
 Follow-Ups
 ----------
