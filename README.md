@@ -498,7 +498,7 @@ asterisks are those that Stephen King felt were especially important.
 * *V* by Thomas Pynchon (*)
 * *Tales of Mystery and Imagination* by Edogawa Rampo
 * *Ghouls in My Grave* by Jean Ray
-* *Interview with the Vampire* by Anne Rice
+* ~~*Interview with the Vampire* by Anne Rice~~
 * *The Breast* by Philip Roth
 * *Sardonicus* by Ray Russell (*)
 * *The Auctioneer* by Joan Samson (*)
