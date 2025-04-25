@@ -522,6 +522,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Tsuga's Children* by Thomas Williams (*)
 * *I Paint What I See* by Gahan Wilson
 * *Strange Seed* by T. M. Wright (*)
+* *The Chrysalids* by John Wyndham
 
 Follow-Ups
 ----------
