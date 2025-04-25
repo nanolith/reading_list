@@ -514,6 +514,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Shadowland* by Peter Straub (*)
 * *Caviar* by Theodore Sturgeon
 * *The Dreaming Jewels* by Theodore Sturgeon
+* *Some of Your Blood* by Theodore Sturgeon (*)
 
 Follow-Ups
 ----------
