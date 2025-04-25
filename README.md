@@ -512,6 +512,7 @@ asterisks are those that Stephen King felt were especially important.
 * *If You Could See Me Now* by Peter Straub
 * *Julia* by Peter Straub
 * *Shadowland* by Peter Straub (*)
+* *Caviar* by Theodore Sturgeon
 
 Follow-Ups
 ----------
