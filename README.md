@@ -500,6 +500,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Ghouls in My Grave* by Jean Ray
 * *Interview with the Vampire* by Anne Rice
 * *The Breast* by Philip Roth
+* *Sardonicus* by Ray Russell (*)
 
 Follow-Ups
 ----------
