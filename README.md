@@ -511,6 +511,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Ghost Story* by Peter Straub (*)
 * *If You Could See Me Now* by Peter Straub
 * *Julia* by Peter Straub
+* *Shadowland* by Peter Straub (*)
 
 Follow-Ups
 ----------
