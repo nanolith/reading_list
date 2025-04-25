@@ -488,6 +488,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Shrinking Man* by Richard Matheson (*)
 * *A Stir of Echoes* by Richard Matheson
 * *The Amulet* by Michael McDowell (*)
+* *Cold Moon Over Babylon* by Michael McDowell (*)
 
 Follow-Ups
 ----------
