@@ -518,6 +518,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Nightwalker* by Thomas Tessier
 * *The Black House* by Paul Theroux
 * *The Other* by Thomas Tryon (*)
+* *Progeny of the Adder* by Les Whitten (*)
 
 Follow-Ups
 ----------
