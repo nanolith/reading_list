@@ -507,6 +507,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Sound of His Horn* by Sarban (*)
 * *The House Next Door* by Anne Rivers Siddons (*)
 * *The Seance and Other Stories* by Isaac Bashevis Singer (*)
+* *Nightwing* by Martin Cruz Smith
 
 Follow-Ups
 ----------
