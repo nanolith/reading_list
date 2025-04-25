@@ -521,6 +521,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Progeny of the Adder* by Les Whitten (*)
 * *Tsuga's Children* by Thomas Williams (*)
 * *I Paint What I See* by Gahan Wilson
+* *Strange Seed* by T. M. Wright (*)
 
 Follow-Ups
 ----------
