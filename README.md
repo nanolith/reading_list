@@ -509,6 +509,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Seance and Other Stories* by Isaac Bashevis Singer (*)
 * *Nightwing* by Martin Cruz Smith
 * *Ghost Story* by Peter Straub (*)
+* *If You Could See Me Now* by Peter Straub
 
 Follow-Ups
 ----------
