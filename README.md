@@ -487,6 +487,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Shock II* by Richard Matheson
 * *The Shrinking Man* by Richard Matheson (*)
 * *A Stir of Echoes* by Richard Matheson
+* *The Amulet* by Michael McDowell (*)
 
 Follow-Ups
 ----------
