@@ -515,6 +515,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Caviar* by Theodore Sturgeon
 * *The Dreaming Jewels* by Theodore Sturgeon
 * *Some of Your Blood* by Theodore Sturgeon (*)
+* *The Nightwalker* by Thomas Tessier
 
 Follow-Ups
 ----------
