@@ -482,6 +482,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Natural* by Bernard Malamud
 * *Burnt Offerings* by Robert Marasco (*)
 * *One Hundred Years of Solitude* by Gabriel Maria Marquez
+* *Hell House* by Richard Matheson
 
 Follow-Ups
 ----------
