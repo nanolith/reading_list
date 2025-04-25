@@ -519,6 +519,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Black House* by Paul Theroux
 * *The Other* by Thomas Tryon (*)
 * *Progeny of the Adder* by Les Whitten (*)
+* *Tsuga's Children* by Thomas Williams (*)
 
 Follow-Ups
 ----------
