@@ -501,6 +501,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Interview with the Vampire* by Anne Rice
 * *The Breast* by Philip Roth
 * *Sardonicus* by Ray Russell (*)
+* *The Auctioneer* by Joan Samson
 
 Follow-Ups
 ----------
