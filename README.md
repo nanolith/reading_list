@@ -497,6 +497,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Gormenghast Trilogy (3 volumes)* by Mervyn Peake
 * *V* by Thomas Pynchon (*)
 * *Tales of Mystery and Imagination* by Edogawa Rampo
+* *Ghouls in My Grave* by Jean Ray
 
 Follow-Ups
 ----------
