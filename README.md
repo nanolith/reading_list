@@ -493,6 +493,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Feasting Dead* by John Metcalf
 * *The Unicorn* by Iris Murdoch
 * *Nightside* by Joyce Carol Oates (*)
+* *A Good Man Is Hard to Find* by Flannery O'Connor (*)
 
 Follow-Ups
 ----------
