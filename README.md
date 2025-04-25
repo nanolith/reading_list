@@ -517,6 +517,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Some of Your Blood* by Theodore Sturgeon (*)
 * *The Nightwalker* by Thomas Tessier
 * *The Black House* by Paul Theroux
+* *The Other* by Thomas Tryon (*)
 
 Follow-Ups
 ----------
