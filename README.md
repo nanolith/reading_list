@@ -513,6 +513,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Julia* by Peter Straub
 * *Shadowland* by Peter Straub (*)
 * *Caviar* by Theodore Sturgeon
+* *The Dreaming Jewels* by Theodore Sturgeon
 
 Follow-Ups
 ----------
