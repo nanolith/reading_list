@@ -523,6 +523,7 @@ asterisks are those that Stephen King felt were especially important.
 * *I Paint What I See* by Gahan Wilson
 * *Strange Seed* by T. M. Wright (*)
 * *The Chrysalids* by John Wyndham
+* *The Day of the Triffids* by John Wyndham (*)
 
 Follow-Ups
 ----------
