@@ -504,6 +504,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Auctioneer* by Joan Samson (*)
 * *The Collected Stories of William Sansom* by William Sansom
 * *Ringstones* by Sarban
+* *The Sound of His Horn* by Sarban (*)
 
 Follow-Ups
 ----------
