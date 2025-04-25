@@ -505,6 +505,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Collected Stories of William Sansom* by William Sansom
 * *Ringstones* by Sarban
 * *The Sound of His Horn* by Sarban (*)
+* *The House Next Door* by Anne Rivers Siddons (*)
 
 Follow-Ups
 ----------
