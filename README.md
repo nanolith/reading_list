@@ -484,6 +484,7 @@ asterisks are those that Stephen King felt were especially important.
 * *One Hundred Years of Solitude* by Gabriel Maria Marquez
 * *Hell House* by Richard Matheson
 * *I Am Legend* by Richard Matheson (*)
+* *Shock II* by Richard Matheson
 
 Follow-Ups
 ----------
