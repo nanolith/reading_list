@@ -499,6 +499,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Tales of Mystery and Imagination* by Edogawa Rampo
 * *Ghouls in My Grave* by Jean Ray
 * *Interview with the Vampire* by Anne Rice
+* *The Breast* by Philip Roth
 
 Follow-Ups
 ----------
