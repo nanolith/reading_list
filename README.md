@@ -489,6 +489,7 @@ asterisks are those that Stephen King felt were especially important.
 * *A Stir of Echoes* by Richard Matheson
 * *The Amulet* by Michael McDowell (*)
 * *Cold Moon Over Babylon* by Michael McDowell (*)
+* *The Cement Garden* by Ian McEwen
 
 Follow-Ups
 ----------
