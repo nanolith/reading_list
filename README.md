@@ -485,6 +485,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Hell House* by Richard Matheson
 * *I Am Legend* by Richard Matheson (*)
 * *Shock II* by Richard Matheson
+* *The Shrinking Man* by Richard Matheson (*)
 
 Follow-Ups
 ----------
