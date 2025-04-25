@@ -492,6 +492,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Cement Garden* by Ian McEwen
 * *The Feasting Dead* by John Metcalf
 * *The Unicorn* by Iris Murdoch
+* *Nightside* by Joyce Carol Oates (*)
 
 Follow-Ups
 ----------
