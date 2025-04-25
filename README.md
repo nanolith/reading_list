@@ -516,6 +516,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Dreaming Jewels* by Theodore Sturgeon
 * *Some of Your Blood* by Theodore Sturgeon (*)
 * *The Nightwalker* by Thomas Tessier
+* *The Black House* by Paul Theroux
 
 Follow-Ups
 ----------
