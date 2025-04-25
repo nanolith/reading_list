@@ -480,6 +480,7 @@ asterisks are those that Stephen King felt were especially important.
 * *The Girl, the Gold Watch, and Everything* by John D. MacDonald
 * *The Magic Barrel* by Bernard Malamud (*)
 * *The Natural* by Bernard Malamud
+* *Burnt Offerings* by Robert Marasco (*)
 
 Follow-Ups
 ----------
