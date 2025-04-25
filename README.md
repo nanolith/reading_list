@@ -495,6 +495,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Nightside* by Joyce Carol Oates (*)
 * *A Good Man Is Hard to Find* by Flannery O'Connor (*)
 * *The Gormenghast Trilogy (3 volumes)* by Mervyn Peake
+* *V* by Thomas Pynchon (*)
 
 Follow-Ups
 ----------
