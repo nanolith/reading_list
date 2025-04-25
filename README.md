@@ -503,6 +503,7 @@ asterisks are those that Stephen King felt were especially important.
 * *Sardonicus* by Ray Russell (*)
 * *The Auctioneer* by Joan Samson (*)
 * *The Collected Stories of William Sansom* by William Sansom
+* *Ringstones* by Sarban
 
 Follow-Ups
 ----------
