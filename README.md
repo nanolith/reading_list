@@ -918,7 +918,7 @@ Leigh Bardugo
 -------------
 * ~~Ninth House by Leigh Bardugo~~
 * ~~Hell Bent by Leigh Bardugo~~
-* *The Familiar* by Leigh Bardugo
+* ~~*The Familiar* by Leigh Bardugo~~
 
 Robert Jordan
 -------------
