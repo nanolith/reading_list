@@ -284,7 +284,7 @@ Miscellaneous Reads
 * ~~*The Forgotten: The Complete Trilogy* by M. R. Forbes~~
 * ~~*Eruption* by Michael Crichton and James Patterson~~
 * ~~*Savage Harvest* by Carl Hoffman~~
-* *Entrances and Exits* by Michael Richards
+* ~~*Entrances and Exits* by Michael Richards~~
 
 Literature from Strand Quiz
 ---------------------------
