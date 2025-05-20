@@ -285,7 +285,7 @@ Miscellaneous Reads
 * ~~*Eruption* by Michael Crichton and James Patterson~~
 * ~~*Savage Harvest* by Carl Hoffman~~
 * ~~*Entrances and Exits* by Michael Richards~~
-* *Room Full of Mirrors: A Biography of Jimi Hendrex* by Charles R. Cross
+* ~~*Room Full of Mirrors: A Biography of Jimi Hendrex* by Charles R. Cross~~
 
 Literature from Strand Quiz
 ---------------------------
