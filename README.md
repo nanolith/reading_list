@@ -286,6 +286,7 @@ Miscellaneous Reads
 * ~~*Savage Harvest* by Carl Hoffman~~
 * ~~*Entrances and Exits* by Michael Richards~~
 * ~~*Room Full of Mirrors: A Biography of Jimi Hendrex* by Charles R. Cross~~
+* *Friends, Lovers, and the Big Terrible Thing* by Matthew Perry
 
 Literature from Strand Quiz
 ---------------------------
