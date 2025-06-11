@@ -287,7 +287,7 @@ Miscellaneous Reads
 * ~~*Entrances and Exits* by Michael Richards~~
 * ~~*Room Full of Mirrors: A Biography of Jimi Hendrex* by Charles R. Cross~~
 * ~~*Friends, Lovers, and the Big Terrible Thing* by Matthew Perry~~
-* *Endurance: Shackleton's Incredible Voyage* by Alfred Lansing
+* ~~*Endurance: Shackleton's Incredible Voyage* by Alfred Lansing~~
 
 Literature from Strand Quiz
 ---------------------------
