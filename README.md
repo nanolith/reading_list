@@ -289,6 +289,7 @@ Miscellaneous Reads
 * ~~*Friends, Lovers, and the Big Terrible Thing* by Matthew Perry~~
 * ~~*Endurance: Shackleton's Incredible Voyage* by Alfred Lansing~~
 * ~~*The Unlikely Thru-Hiker* by Derick Lugo~~
+* *The Day of Atonement* by David Liss
 * *Burning Down Boise* by Franklin Horton
 
 Literature from Strand Quiz
