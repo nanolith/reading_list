@@ -288,7 +288,7 @@ Miscellaneous Reads
 * ~~*Room Full of Mirrors: A Biography of Jimi Hendrex* by Charles R. Cross~~
 * ~~*Friends, Lovers, and the Big Terrible Thing* by Matthew Perry~~
 * ~~*Endurance: Shackleton's Incredible Voyage* by Alfred Lansing~~
-* *The Unlikely Thru-Hiker* by Derick Lugo
+* ~~*The Unlikely Thru-Hiker* by Derick Lugo~~
 
 Literature from Strand Quiz
 ---------------------------
