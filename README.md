@@ -772,6 +772,7 @@ Terry Mancour (Spellmonger Series)
 * ~~*Marshal Arcane* by Terry Mancour~~
 * ~~*Preceptor* by Terry Mancour~~
 * ~~*Practical Adept* by Terry Mancour~~
+* *The Golden Goblin* by Terry Mancour
 
 Terry Pratchett (Discworld)
 ---------------------------
