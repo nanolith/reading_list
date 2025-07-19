@@ -292,7 +292,7 @@ Miscellaneous Reads
 * ~~*The Day of Atonement* by David Liss~~
 * ~~*Burning Down Boise* by Franklin Horton~~
 * ~~*The Path of Water* by Franklin Horton~~
-* *Such a Fun Age* by Kiley Reid
+* ~~*Such a Fun Age* by Kiley Reid~~
 
 Literature from Strand Quiz
 ---------------------------
