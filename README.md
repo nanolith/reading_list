@@ -291,7 +291,7 @@ Miscellaneous Reads
 * ~~*The Unlikely Thru-Hiker* by Derick Lugo~~
 * ~~*The Day of Atonement* by David Liss~~
 * ~~*Burning Down Boise* by Franklin Horton~~
-* *The Path of Water* by Franklin Horton
+* ~~*The Path of Water* by Franklin Horton~~
 
 Literature from Strand Quiz
 ---------------------------
