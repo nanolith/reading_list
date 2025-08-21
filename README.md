@@ -936,3 +936,7 @@ Robert Jordan
 * *The Great Hunt* by Robert Jordan
 * *The Dragon Reborn* by Robert Jordan
 * *The Shadow Rising* by Robert Jordan
+
+Lee Child
+---------
+* Killing Floor by Lee Child
