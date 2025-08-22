@@ -939,4 +939,4 @@ Robert Jordan
 
 Lee Child
 ---------
-* Killing Floor by Lee Child
+* ~~*Killing Floor* by Lee Child~~
