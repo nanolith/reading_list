@@ -940,3 +940,4 @@ Robert Jordan
 Lee Child
 ---------
 * ~~*Killing Floor* by Lee Child~~
+* *Die Trying* by Lee Child
