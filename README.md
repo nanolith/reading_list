@@ -941,3 +941,4 @@ Lee Child
 ---------
 * ~~*Killing Floor* by Lee Child~~
 * *Die Trying* by Lee Child
+* *Tripwire* by Lee Child
