@@ -961,3 +961,7 @@ Amitav Ghosh
 Alan Watts
 ----------
 * *The Way of Zen* by Alan Watts
+
+Anne Rice
+---------
+* ~~*Interview with the Vampire* by Anne Rice~~
