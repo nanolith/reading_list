@@ -954,6 +954,7 @@ Amitav Ghosh
 ------------
 * ~~*The Glass Palace* by Amitav Ghosh~~
 * *Sea of Poppies* by Amitav Ghosh
+* *River of Smoke* by Amitav Ghosh
 
 Alan Watts
 ----------
