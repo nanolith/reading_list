@@ -978,4 +978,4 @@ Ben Macintyre
 -------------
 * ~~*Operation Mincemeat: How a Dead Man and a Bizarre Plan Fooled the Nazis and Assured an Allied Victory* by Ben Macintyre~~
 * ~~*Agent Zigzag: A True Story of Nazi Espionage, Love, and Betrayal* by Ben Macintyre~~
-* *The Spy and the Traitor* by Ben Macintyre
+* ~~*The Spy and the Traitor* by Ben Macintyre~~
