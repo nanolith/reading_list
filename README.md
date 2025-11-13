@@ -965,3 +965,4 @@ Alan Watts
 Anne Rice
 ---------
 * ~~*Interview with the Vampire* by Anne Rice~~
+* *The Vampire Lestat* by Anne Rice
