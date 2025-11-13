@@ -293,7 +293,7 @@ Miscellaneous Reads
 * ~~*Burning Down Boise* by Franklin Horton~~
 * ~~*The Path of Water* by Franklin Horton~~
 * ~~*Such a Fun Age* by Kiley Reid~~
-* *The Man from the Future* by Ananyo Bhattacharya
+* ~~*The Man from the Future* by Ananyo Bhattacharya~~
 
 Literature from Strand Quiz
 ---------------------------
