@@ -973,3 +973,8 @@ Barbara W. Tuchman
 * ~~*A Distant Mirror: The Calamitous Fourteenth Century* by Barbara W. Tuchman*~~
 * ~~*A Distant Mirror* by Barbara W. Tuchman~~
 * ~~*The Proud Tower* by Barbara W. Tuchman~~
+
+Ben Macintyre
+-------------
+* ~~*Operation Mincemeat: How a Dead Man and a Bizarre Plan Fooled the Nazis and Assured an Allied Victory* by Ben Macintyre~~
+* ~~*Agent Zigzag: A True Story of Nazi Espionage, Love, and Betrayal* by Ben Macintyre~~
