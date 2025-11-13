@@ -971,4 +971,4 @@ Anne Rice
 Barbara W. Tuchman
 ------------------
 * ~~*A Distant Mirror: The Calamitous Fourteenth Century* by Barbara W. Tuchman*~~
-* *A Distant Mirror* by Barbara W. Tuchman
+* ~~*A Distant Mirror* by Barbara W. Tuchman~~
