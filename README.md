@@ -953,6 +953,7 @@ Gareth Brown
 Amitav Ghosh
 ------------
 * ~~*The Glass Palace* by Amitav Ghosh~~
+* *Sea of Poppies* by Amitav Ghosh
 
 Alan Watts
 ----------
