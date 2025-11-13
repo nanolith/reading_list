@@ -968,6 +968,7 @@ Anne Rice
 * ~~*Interview with the Vampire* by Anne Rice~~
 * ~~*The Vampire Lestat* by Anne Rice~~
 
-Barbara Tuchman
----------------
+Barbara W. Tuchman
+------------------
 * ~~*A Distant Mirror: The Calamitous Fourteenth Century* by Barbara W. Tuchman*~~
+* *A Distant Mirror* by Barbara W. Tuchman
