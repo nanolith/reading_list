@@ -950,6 +950,10 @@ Gareth Brown
 * ~~*The Book of Doors* by Gareth Brown~~
 * *The Society of Unknownable Objects* by Gareth Brown
 
+Amitav Ghosh
+------------
+* ~~*The Glass Palace* by Amitav Ghosh~~
+
 Alan Watts
 ----------
 * *The Way of Zen* by Alan Watts
