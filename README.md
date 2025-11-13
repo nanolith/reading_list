@@ -942,3 +942,7 @@ Lee Child
 * ~~*Killing Floor* by Lee Child~~
 * *Die Trying* by Lee Child
 * *Tripwire* by Lee Child
+
+Gareth Brown
+------------
+* *The Book of Doors* by Gareth Brown
