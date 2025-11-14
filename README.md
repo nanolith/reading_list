@@ -950,7 +950,7 @@ Lee Child
 Gareth Brown
 ------------
 * ~~*The Book of Doors* by Gareth Brown~~
-* *The Society of Unknownable Objects* by Gareth Brown
+* *The Society of Unknowable Objects* by Gareth Brown
 
 Amitav Ghosh
 ------------
