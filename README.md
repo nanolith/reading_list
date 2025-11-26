@@ -771,7 +771,7 @@ Terry Mancour (Spellmonger Series)
 * ~~*The Spellmonger's Honeymoon* by Terry Mancour~~
 * ~~*The Mad Mage of Sevendor* by Terry Mancour~~
 * ~~*Shadowplay* by Terry Mancour~~
-* *Shadowheist* by Terry Mancour
+* ~~*Shadowheist* by Terry Mancour~~
 * *Shadowblade* by Terry Mancour
 * ~~*Marshal Arcane* by Terry Mancour~~
 * ~~*Preceptor* by Terry Mancour~~
