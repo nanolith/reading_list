@@ -913,7 +913,7 @@ Joe Hill
 * ~~*NOS4A2* by Joe Hill~~
 * ~~*The Fireman* by Joe Hill~~
 * ~~*Heart Shaped Box* by Joe Hill~~
-* *Horns* by Joe Hill
+* ~~*Horns* by Joe Hill~~
 * *King's Sorrow* by Joe Hill
 
 Casualfarmer
