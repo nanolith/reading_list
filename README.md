@@ -724,7 +724,7 @@ Ernest Cline
 James A. Michener
 -----------------
 
-* *Hawaii* by James A. Michener
+* ~~*Hawaii* by James A. Michener~~
 
 B.V. Larson (Undying Mercenaries Series)
 ----------------------------------------
