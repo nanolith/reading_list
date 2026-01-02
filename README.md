@@ -930,7 +930,7 @@ Casualfarmer
 
 KrazeKode
 ---------
-* *The First Law of Cultivation* by KrazeKode
+* ~~*The First Law of Cultivation* by KrazeKode~~
 
 Benjamin Kerei
 --------------
