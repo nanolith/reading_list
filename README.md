@@ -992,4 +992,4 @@ Ben Macintyre
 
 Andrew Rowe
 -----------
-* *Sufficiently Advanced Magic* by Andrew Rowe
+* ~~*Sufficiently Advanced Magic* by Andrew Rowe~~
