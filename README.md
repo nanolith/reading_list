@@ -999,3 +999,4 @@ Andrew Rowe
 Matt Dinniman
 -------------
 * *Dungeon Crawler Carl* by Matt Dinniman
+* *Carl's Doomsday Scenario* by Matt Dinniman
