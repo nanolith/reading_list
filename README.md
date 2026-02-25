@@ -995,3 +995,7 @@ Andrew Rowe
 * ~~*Sufficiently Advanced Magic* by Andrew Rowe~~
 * ~~*On the Shoulders of Titans* by Andrew Rowe~~
 * *The Torch that Ignites the Stars* by Andrew Rowe
+
+Matt Dinniman
+-------------
+* *Dungeon Crawler Carl* by Matt Dinniman
