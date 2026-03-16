@@ -294,7 +294,7 @@ Miscellaneous Reads
 * ~~*The Path of Water* by Franklin Horton~~
 * ~~*Such a Fun Age* by Kiley Reid~~
 * ~~*The Man from the Future* by Ananyo Bhattacharya~~
-* *A Walk in the Woods* by Bill Bryson
+* ~~*A Walk in the Woods* by Bill Bryson~~
 
 Literature from Strand Quiz
 ---------------------------
