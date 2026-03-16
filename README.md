@@ -995,6 +995,10 @@ Ben Macintyre
 * ~~*Agent Zigzag: A True Story of Nazi Espionage, Love, and Betrayal* by Ben Macintyre~~
 * ~~*The Spy and the Traitor* by Ben Macintyre~~
 
+Dan Brown
+---------
+* *Angels and Demons* by Dan Brown
+
 Andrew Rowe
 -----------
 * ~~*Sufficiently Advanced Magic* by Andrew Rowe~~
