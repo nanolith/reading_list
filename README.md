@@ -1009,6 +1009,10 @@ Andrew Rowe
 * ~~*The Silence of Unworthy Gods* by Andrew Rowe~~
 * *When Wizards Follow Fools* by Andrew Rowe
 
+J.M. Clarke
+-----------
+* *Mark of the Fool* by J.M. Clarke
+
 Matt Dinniman
 -------------
 * ~~*Dungeon Crawler Carl* by Matt Dinniman~~
