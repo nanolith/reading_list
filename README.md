@@ -1019,6 +1019,7 @@ J.M. Clarke
 * *Mark of the Fool 6* by J.M. Clarke
 * *Mark of the Fool 7* by J.M. Clarke
 * *Mark of the Fool 8* by J.M. Clarke
+* *Mark of the Fool 9* by J.M. Clarke
 
 Matt Dinniman
 -------------
