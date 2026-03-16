@@ -296,7 +296,7 @@ Miscellaneous Reads
 * ~~*The Man from the Future* by Ananyo Bhattacharya~~
 * ~~*A Walk in the Woods* by Bill Bryson~~
 * ~~*Reawakening* by Orson Scott Card~~
-* *The Writing of the Gods* by Edward Dolnick
+* ~~*The Writing of the Gods* by Edward Dolnick~~
 
 Literature from Strand Quiz
 ---------------------------
