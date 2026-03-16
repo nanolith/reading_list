@@ -1016,7 +1016,7 @@ J.M. Clarke
 * ~~*Mark of the Fool 3* by J.M. Clarke~~
 * ~~*Mark of the Fool 4* by J.M. Clarke~~
 * ~~*Mark of the Fool 5* by J.M. Clarke~~
-* *Mark of the Fool 6* by J.M. Clarke
+* ~~*Mark of the Fool 6* by J.M. Clarke~~
 * *Mark of the Fool 7* by J.M. Clarke
 * *Mark of the Fool 8* by J.M. Clarke
 * *Mark of the Fool 9* by J.M. Clarke
