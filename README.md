@@ -299,6 +299,7 @@ Miscellaneous Reads
 * ~~*The Writing of the Gods* by Edward Dolnick~~
 * ~~*Silent Running* by James F. Calvert~~
 * *A Conspiracy of Paper* by David Liss
+* *The Ethical Assassin* by David Liss
 
 Literature from Strand Quiz
 ---------------------------
