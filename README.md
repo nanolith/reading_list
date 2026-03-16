@@ -298,6 +298,7 @@ Miscellaneous Reads
 * ~~*Reawakening* by Orson Scott Card~~
 * ~~*The Writing of the Gods* by Edward Dolnick~~
 * ~~*Silent Running* by James F. Calvert~~
+* *A Conspiracy of Paper* by David Liss
 
 Literature from Strand Quiz
 ---------------------------
