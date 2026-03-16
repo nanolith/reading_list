@@ -295,7 +295,7 @@ Miscellaneous Reads
 * ~~*Such a Fun Age* by Kiley Reid~~
 * ~~*The Man from the Future* by Ananyo Bhattacharya~~
 * ~~*A Walk in the Woods* by Bill Bryson~~
-* *Reawakening* by Orson Scott Card
+* ~~*Reawakening* by Orson Scott Card~~
 
 Literature from Strand Quiz
 ---------------------------
