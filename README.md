@@ -297,6 +297,7 @@ Miscellaneous Reads
 * ~~*A Walk in the Woods* by Bill Bryson~~
 * ~~*Reawakening* by Orson Scott Card~~
 * ~~*The Writing of the Gods* by Edward Dolnick~~
+* *Silent Running* by James F. Calvert
 
 Literature from Strand Quiz
 ---------------------------
