@@ -1012,6 +1012,7 @@ Andrew Rowe
 J.M. Clarke
 -----------
 * *Mark of the Fool* by J.M. Clarke
+* *Mark of the Fool 2* by J.M. Clarke
 
 Matt Dinniman
 -------------
