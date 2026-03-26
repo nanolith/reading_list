@@ -1032,3 +1032,4 @@ Matt Dinniman
 * ~~*Dungeon Crawler Carl* by Matt Dinniman~~
 * ~~*Carl's Doomsday Scenario* by Matt Dinniman~~
 * *The Dungeon Anarchist's Cookbook* by Matt Dinniman
+* *The Gate of the Feral Gods* by Matt Dinniman
