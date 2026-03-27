@@ -1033,3 +1033,4 @@ Matt Dinniman
 * ~~*Carl's Doomsday Scenario* by Matt Dinniman~~
 * *The Dungeon Anarchist's Cookbook* by Matt Dinniman
 * *The Gate of the Feral Gods* by Matt Dinniman
+* *The Butcher's Masquerade* by Matt Dinniman
