@@ -1012,7 +1012,7 @@ Andrew Rowe
 * ~~*On the Shoulders of Titans* by Andrew Rowe~~
 * ~~*The Torch that Ignites the Stars* by Andrew Rowe~~
 * ~~*The Silence of Unworthy Gods* by Andrew Rowe~~
-* *When Wizards Follow Fools* by Andrew Rowe
+* ~~*When Wizards Follow Fools* by Andrew Rowe~~
 
 J.M. Clarke
 -----------
