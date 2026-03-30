@@ -1035,3 +1035,4 @@ Matt Dinniman
 * *The Gate of the Feral Gods* by Matt Dinniman
 * *The Butcher's Masquerade* by Matt Dinniman
 * *The Eye of the Bedlam Bride* by Matt Dinniman
+* *This Inevitable Ruin* by Matt Dinniman
