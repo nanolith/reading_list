@@ -790,7 +790,7 @@ Terry Mancour (Spellmonger Series)
 * ~~*Preceptor* by Terry Mancour~~
 * ~~*Practical Adept* by Terry Mancour~~
 * ~~*The Golden Goblin* by Terry Mancour~~
-* *Seamage* by Terry Mancour
+* ~~*Seamage* by Terry Mancour~~
 
 Terry Pratchett (Discworld)
 ---------------------------
