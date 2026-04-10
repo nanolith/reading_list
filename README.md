@@ -1022,6 +1022,10 @@ Andrew Rowe (Arcane Ascension)
 * ~~*When Wizards Follow Fools* by Andrew Rowe~~
 * *A Brief History of Chronomancy* by Andrew Rowe
 
+Andrew Rowe (Weapons and Wielders)
+----------------------------------
+* *Six Sacred Swords* by Andrew Rowe
+
 J.M. Clarke
 -----------
 * ~~*Mark of the Fool* by J.M. Clarke~~
