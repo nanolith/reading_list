@@ -1007,8 +1007,12 @@ Dan Brown
 * ~~*Angels and Demons* by Dan Brown~~
 * ~~*The Da Vinci Code* by Dan Brown~~
 
-Andrew Rowe
------------
+Andrew Rowe (War of Broken Mirrors)
+-----------------------------------
+* *Forging Divinity* by Andrew Rowe
+
+Andrew Rowe (Arcane Ascension)
+------------------------------
 * ~~*Sufficiently Advanced Magic* by Andrew Rowe~~
 * ~~*On the Shoulders of Titans* by Andrew Rowe~~
 * ~~*The Torch that Ignites the Stars* by Andrew Rowe~~
