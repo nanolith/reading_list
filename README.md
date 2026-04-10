@@ -791,6 +791,7 @@ Terry Mancour (Spellmonger Series)
 * ~~*Practical Adept* by Terry Mancour~~
 * ~~*The Golden Goblin* by Terry Mancour~~
 * ~~*Seamage* by Terry Mancour~~
+* *The Talon and the Flame* by Terry Mancour
 
 Terry Pratchett (Discworld)
 ---------------------------
