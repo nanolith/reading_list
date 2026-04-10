@@ -1026,6 +1026,7 @@ Andrew Rowe (Weapons and Wielders)
 ----------------------------------
 * *Six Sacred Swords* by Andrew Rowe
 * *Diamantine* by Andrew Rowe
+* *Soulbrand* by Andrew Rowe
 
 J.M. Clarke
 -----------
