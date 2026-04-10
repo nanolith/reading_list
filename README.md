@@ -1011,6 +1011,7 @@ Andrew Rowe (War of Broken Mirrors)
 -----------------------------------
 * *Forging Divinity* by Andrew Rowe
 * *Stealing Sorcery* by Andrew Rowe
+* *Defying Destiny* by Andrew Rowe
 
 Andrew Rowe (Arcane Ascension)
 ------------------------------
