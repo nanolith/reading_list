@@ -1024,7 +1024,7 @@ Andrew Rowe (Arcane Ascension)
 
 Andrew Rowe (Weapons and Wielders)
 ----------------------------------
-* *Six Sacred Swords* by Andrew Rowe
+* ~~*Six Sacred Swords* by Andrew Rowe~~
 * *Diamantine* by Andrew Rowe
 * *Soulbrand* by Andrew Rowe
 
