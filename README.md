@@ -733,6 +733,7 @@ James A. Michener
 
 * ~~*Hawaii* by James A. Michener~~
 * ~~*Kent State* by James A. Michener~~
+* *Sayonara* by James A. Michener
 
 B.V. Larson (Undying Mercenaries Series)
 ----------------------------------------
