@@ -1020,7 +1020,7 @@ Andrew Rowe (Arcane Ascension)
 * ~~*The Torch that Ignites the Stars* by Andrew Rowe~~
 * ~~*The Silence of Unworthy Gods* by Andrew Rowe~~
 * ~~*When Wizards Follow Fools* by Andrew Rowe~~
-* *A Brief History of Chronomancy* by Andrew Rowe
+* ~~*A Brief History of Chronomancy* by Andrew Rowe~~
 
 Andrew Rowe (Weapons and Wielders)
 ----------------------------------
