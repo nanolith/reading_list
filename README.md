@@ -698,6 +698,7 @@ Dennis E. Taylor
 * ~~*All These Worlds* by Dennis E. Taylor~~
 * ~~*Heaven's River* by Dennis E. Taylor~~
 * ~~*Not Till We Are Lost* by Dennis E. Taylor~~
+* *The Infinite Extent* by Dennis E. Taylor
 * ~~*Outland* by Dennis E. Taylor~~
 * ~~*The Singularity Trap* by Dennis E. Taylor~~
 * ~~*Earthside* by Dennis E. Taylor~~
