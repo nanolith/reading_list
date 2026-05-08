@@ -300,6 +300,7 @@ Miscellaneous Reads
 * ~~*Silent Running* by James F. Calvert~~
 * *A Conspiracy of Paper* by David Liss
 * *The Ethical Assassin* by David Liss
+* *Operation Paperclip* by Annie Jacobsen
 
 Literature from Strand Quiz
 ---------------------------
