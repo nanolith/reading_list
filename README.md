@@ -987,7 +987,7 @@ Amitav Ghosh
 
 Alan Watts
 ----------
-* *The Way of Zen* by Alan Watts
+* ~~*The Way of Zen* by Alan Watts~~
 
 Anne Rice
 ---------
