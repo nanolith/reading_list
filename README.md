@@ -17,7 +17,8 @@ Math Books
 
 These are some interesting math books I was recommended.
 
-* LOGICOMIX by Apostolos Doxiadis and Christos Papadimitriou
+* *LOGICOMIX* by Apostolos Doxiadis and Christos Papadimitriou
+* *The Story of Proof* by John Stillwell
 
 Great Books of the Western World (1990s edition)
 ------------------------------------------------
