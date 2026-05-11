@@ -22,6 +22,7 @@ These are some interesting math books I was recommended.
 * *Mechanizing Proof* by Donald Alexander Mackenzie
 * *The Little Typer* by Daniel P. Friedman and David Thrane Christiansen
 * *Conceptual Mathematics* by Stephen Schanuel and William Lawvere
+* *Elementary Applied Topology* by Robert Ghrist
 
 Great Books of the Western World (1990s edition)
 ------------------------------------------------
