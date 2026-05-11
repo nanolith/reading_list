@@ -20,6 +20,7 @@ These are some interesting math books I was recommended.
 * *LOGICOMIX* by Apostolos Doxiadis and Christos Papadimitriou
 * *The Story of Proof* by John Stillwell
 * *Mechanizing Proof* by Donald Alexander Mackenzie
+* *The Little Typer* by Daniel P. Friedman and David Thrane Christiansen
 
 Great Books of the Western World (1990s edition)
 ------------------------------------------------
