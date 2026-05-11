@@ -24,6 +24,7 @@ These are some interesting math books I was recommended.
 * *Conceptual Mathematics* by Stephen Schanuel and William Lawvere
 * *From Geometry to Topology* by Graham Flegg
 * *Elementary Applied Topology* by Robert Ghrist
+* *Handbook of Satisfiability* by A. Biere, M. Heule, H. Van Maaren, T. Walsh
 
 Great Books of the Western World (1990s edition)
 ------------------------------------------------
