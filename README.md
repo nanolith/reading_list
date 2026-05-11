@@ -12,6 +12,13 @@ Sometimes, I'll add books that I've already read to cross them out when I'm
 extracting a reading list from a third party list.  I'll try to leave
 attribution when known.
 
+Math Books
+----------
+
+These are some interesting math books I was recommended.
+
+* LOGICOMIX by Apostolos Doxiadis and Christos Papadimitriou
+
 Great Books of the Western World (1990s edition)
 ------------------------------------------------
 * Volumes 1 and 2 are the Syntopicon, which is reference and not part of the reading list.
