@@ -26,6 +26,7 @@ These are some interesting math books I was recommended.
 * *Elementary Applied Topology* by Robert Ghrist
 * *Handbook of Satisfiability* by A. Biere, M. Heule, H. Van Maaren, T. Walsh
 * *The Satisfiability Problem* by Uwe Schoening
+* *Introduction to Mathematics of Satisfiability* by Victor W. Marek
 
 Great Books of the Western World (1990s edition)
 ------------------------------------------------
