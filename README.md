@@ -812,7 +812,7 @@ Terry Mancour (Spellmonger Series)
 * ~~*The Golden Goblin* by Terry Mancour~~
 * ~~*Seamage* by Terry Mancour~~
 * ~~*The Talon and the Flame* by Terry Mancour~~
-* *Theurge* by Terry Mancour
+* ~~*Theurge* by Terry Mancour~~
 
 Terry Pratchett (Discworld)
 ---------------------------
