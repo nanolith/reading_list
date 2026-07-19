@@ -780,6 +780,7 @@ B.V. Larson (Undying Mercenaries Series)
 * ~~*Rebel World* by B.V. Larson~~
 * ~~*Rage World* by B.V. Larson~~
 * ~~*Demon World* by B.V. Larson~~
+* *Hell World* by B.V. Larson
 
 Terry Mancour (Spellmonger Series)
 ----------------------------------
