@@ -1016,6 +1016,7 @@ Barbara W. Tuchman
 * ~~*A Distant Mirror: The Calamitous Fourteenth Century* by Barbara W. Tuchman*~~
 * ~~*A Distant Mirror* by Barbara W. Tuchman~~
 * ~~*The Proud Tower* by Barbara W. Tuchman~~
+* *The Guns of August* by Barbara W. Tuchman
 
 Ben Macintyre
 -------------
