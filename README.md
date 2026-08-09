@@ -813,6 +813,7 @@ Terry Mancour (Spellmonger Series)
 * ~~*Seamage* by Terry Mancour~~
 * ~~*The Talon and the Flame* by Terry Mancour~~
 * ~~*Theurge* by Terry Mancour~~
+* *The Road to Vanador* by Terry Mancour
 
 Terry Pratchett (Discworld)
 ---------------------------
