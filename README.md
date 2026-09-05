@@ -255,7 +255,7 @@ Miscellaneous Reads
 * *I Am a Strange Loop* by Douglas R. Hofstadter
 * ~~*Heavier than Heaven: A Biography of Kurt Cobain* by Charles R. Cross~~
 * ~~*What Happened* by Hillary Rodham Clinton~~
-* *Seven Years in Tibet* by Heinrich Harrer and Richard Graves
+* ~~*Seven Years in Tibet* by Heinrich Harrer and Richard Graves~~
 * ~~*A Higher Loyalty: Truth, Lies, and Leadership* by James Comey~~
 * ~~*The Immortal Life of Henrietta Lacks* by Rebecca Skloot~~
 * ~~*Endgame: Bobby Fischer’s Remarkable Rise and Fall -- from America’s Brightest Prodigy to the Edge of Madness* by Frank Brady~~
