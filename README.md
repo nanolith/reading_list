@@ -317,6 +317,7 @@ Miscellaneous Reads
 * *A Conspiracy of Paper* by David Liss
 * *The Ethical Assassin* by David Liss
 * ~~*Operation Paperclip* by Annie Jacobsen~~
+* *Catherine de Medici* by Leonie Frieda
 
 Literature from Strand Quiz
 ---------------------------
