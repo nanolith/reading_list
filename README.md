@@ -966,7 +966,7 @@ KrazeKode
 ---------
 * ~~*The First Law of Cultivation* by KrazeKode~~
 * ~~*The Second Law of Cultivation* by KrazeKode~~
-* *The Third Law of Cultivation* by KrazeKode
+* ~~*The Third Law of Cultivation* by KrazeKode~~
 * *The Fourth Law of Cultivation* by KrazeKode
 
 Benjamin Kerei
