@@ -318,6 +318,7 @@ Miscellaneous Reads
 * *The Ethical Assassin* by David Liss
 * ~~*Operation Paperclip* by Annie Jacobsen~~
 * ~~*Catherine de Medici* by Leonie Frieda~~
+* *Karen: a Brother Remembers* by Kelsey Grammer
 
 Literature from Strand Quiz
 ---------------------------
