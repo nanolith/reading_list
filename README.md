@@ -320,6 +320,7 @@ Miscellaneous Reads
 * ~~*Catherine de Medici* by Leonie Frieda~~
 * ~~*Karen: a Brother Remembers* by Kelsey Grammer~~
 * *The Idaho Four* by James Patterson and Vicky Ward
+* *Napoleon* by Andrew Roberts
 
 Literature from Strand Quiz
 ---------------------------
