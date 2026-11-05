@@ -1092,4 +1092,4 @@ Naomi Kuttner
 Spaizzzer
 ---------
 * ~~*Regressor Sect Master* by Spaizzzer~~
-* *Regressor Sect Master 2* by Spaizzzer
+* ~~*Regressor Sect Master 2* by Spaizzzer~~
