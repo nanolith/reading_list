@@ -323,6 +323,7 @@ Miscellaneous Reads
 * *The Idaho Four* by James Patterson and Vicky Ward
 * *Napoleon* by Andrew Roberts
 * *Parallax* by Jeremy Robinson
+* *Tom's Crossing* by Mark Z. Danielewski
 
 Literature from Strand Quiz
 ---------------------------
