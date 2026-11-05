@@ -319,6 +319,7 @@ Miscellaneous Reads
 * ~~*Operation Paperclip* by Annie Jacobsen~~
 * ~~*Catherine de Medici* by Leonie Frieda~~
 * ~~*Karen: a Brother Remembers* by Kelsey Grammer~~
+* *The Plantagenets* by Dan Jones
 * *The Idaho Four* by James Patterson and Vicky Ward
 * *Napoleon* by Andrew Roberts
 
