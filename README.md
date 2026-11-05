@@ -324,6 +324,7 @@ Miscellaneous Reads
 * *Napoleon* by Andrew Roberts
 * *Parallax* by Jeremy Robinson
 * *Tom's Crossing* by Mark Z. Danielewski
+* *Astor* by Anderson Cooper and Katherine Howe
 
 Literature from Strand Quiz
 ---------------------------
