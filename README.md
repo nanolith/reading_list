@@ -325,7 +325,7 @@ Miscellaneous Reads
 * *Parallax* by Jeremy Robinson
 * *Tom's Crossing* by Mark Z. Danielewski
 * *Astor* by Anderson Cooper and Katherine Howe
-* *Homegrown* by Jeffrey Toobin
+* ~~*Homegrown* by Jeffrey Toobin~~
 
 Literature from Strand Quiz
 ---------------------------
